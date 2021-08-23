@@ -7,6 +7,12 @@
 
 ## 21.08.03~21.08.13
 - [Final Project 무신사 스타일리뷰 적립금 지급 대상판정 system개발]
+    - **95.21% Accuracy**
+    - 적립금 지급 대상 Image를 분류하고 학습시킨 모델을 바탕으로 판정하는 웹 페이지 개발
+    - 🖐 Main role : 팀 리더 Master plan부터 진척관리, CNN 모델링, Web개발 일부(모델 올리기)
+    - # Data Augmentation # Image Data # CNN # HPO # Transition Learning # Deep Learning
+    - # Python # Django # Tensorflow # Selenium # Keras-tuner # Scraping
+    
     - [Final Project (0) 개요](https://aeda.tistory.com/2)
     - [Final Project (1) Data확보 (Web Scraping)](https://aeda.tistory.com/3)
     - [Final Project (2) Deep Learning - 1](https://aeda.tistory.com/4)
