@@ -1,6 +1,6 @@
 # Today I Learned(TIL)
 ## 21.08.23
-- [Mid Project 정리]
+- [Tableau 공부](https://github.com/tkasod2/TIL/blob/main/Tableau/basic.md)
 
 ## 21.08.22
 - [Github 튜토리얼, TIL 만들기 시작](https://aeda.tistory.com/8)
