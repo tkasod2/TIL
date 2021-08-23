@@ -19,4 +19,11 @@
     - 분석 : Tableau Desktop
         - 연결 설정 라이브(바로바로계산) vs 추출(데이터 업데이트될때마다. 메모리 계산)
 
+- 추가 공부
+    - [Starterkit](https://www.tableau.com/ko-kr/learn/starter-kits)
+    - [무료동영상강의](https://www.tableau.com/ko-kr/learn/training/20212)
+    - [TableauPublic](https://public.tableau.com/s/)
+        - 사용자들이 직접 본인들이 사용하는거 올리는곳
+    - [Webinars](https://www.tableau.com/ko-kr/learn/series/webinars)
+
     
