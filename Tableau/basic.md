@@ -11,8 +11,6 @@
         - Viewer ~ 웹/모바일 기반
         - Explorer ~ 웹/모바일 기반
     - 범용성 : Excel, SQL, Cloud, "공간데이터" 등 정형데이터와 관련된 거의 모든 Type의 파일과 연동이 가능
-<p>
-</p>
 - 활용
     - Join, Merge, Union : Tableau Prep Builder 프로그램으로 GUI(특히, 드래그)를 통해 진행
         - 만약, 컬럼명이 다른 경우에는 데이터 정리 기능을 통해, 해당 부분을 합쳐주어야할 부분으로 드래그처리해주면 됨.
