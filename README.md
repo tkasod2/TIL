@@ -20,11 +20,27 @@
     - [Final Project (2) Deep Learning - 3](https://aeda.tistory.com/6)
     - [Final Project (3) WEB - 1](https://aeda.tistory.com/7)
 
+
 ## 21.07.19~21.07.28
 - [주차수요예측AI경진대회 (한국토지주택공사 주최)]
+- 단지별 주차 수요 예측
+- **상위 19% 성적**
+- 🖐 Main role : Pre-processing, Hyper Parameter Optimizing, Model 적용
+- \# MachineLearning # Catboost # XGboost # NGboost # Structured Data
+- \# Python # Pycaret # Hyperopt # Keras-tuner
+
 
 ## 21.07.06~21.07.12
 - [네이버영화_리뷰_감성분석]
+- 영화 리뷰 텍스트 데이터와 별점 데이터간 상관관계를 통한 감성분류분석
+- 🖐 Main role : 팀 리더, 불용어 사전 생성, 기본 ML
+- \# Textmining # Machine Learning # HPO # Tf-Idf # Scraping # Classification
+- \# Python # Konlpy # Grid Search CV # BeautifulSoup # SckitLearn
+
 
 ## 21.06.17~21.06.23
 - [청산가치를 통한 주식 종가 예측]
+- 워런버핏의 투자 지표중 하나인 청산가치 및 이동평균선 기반 주식 종가 예측 서비스
+- 🖐 Main role : 이동평균선 기울기 기반 지수 생성, 회귀분석
+- \# Wordcloud # Scraping # Regression # API
+- \# Python # SckitLearn # BeautifulSoup # DART
