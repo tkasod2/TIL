@@ -39,7 +39,7 @@
 
 
 ## 21.06.17~21.06.23
-- [청산가치를 통한 주식 종가 예측]
+- [청산가치를 통한 주식 종가 예측](https://github.com/tkasod2/TIL/tree/main/Semi1_Warren_Buffett)
     - 워런버핏의 투자 지표중 하나인 청산가치 및 이동평균선 기반 주식 종가 예측 서비스
     - 🖐 Main role : 팀 리더, 이동평균선 기울기 기반 지수 생성, 회귀분석
     - \# Wordcloud # Scraping # Regression # API
