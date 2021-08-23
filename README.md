@@ -41,6 +41,6 @@
 ## 21.06.17~21.06.23
 - [청산가치를 통한 주식 종가 예측]
     - 워런버핏의 투자 지표중 하나인 청산가치 및 이동평균선 기반 주식 종가 예측 서비스
-    - 🖐 Main role : 이동평균선 기울기 기반 지수 생성, 회귀분석
+    - 🖐 Main role : 팀 리더, 이동평균선 기울기 기반 지수 생성, 회귀분석
     - \# Wordcloud # Scraping # Regression # API
     - \# Python # SckitLearn # BeautifulSoup # DART
