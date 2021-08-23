@@ -13,3 +13,12 @@
     - [Final Project (2) Deep Learning - 2](https://aeda.tistory.com/5)
     - [Final Project (2) Deep Learning - 3](https://aeda.tistory.com/6)
     - [Final Project (3) WEB - 1](https://aeda.tistory.com/7)
+
+## 21.07.19~21.07.28
+- [주차수요예측AI경진대회 (한국토지주택공사 주최)]
+
+## 21.07.06~21.07.12
+- [네이버영화_리뷰_감성분석]
+
+## 21.06.17~21.06.23
+- [청산가치를 통한 주식 종가 예측]
