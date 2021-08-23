@@ -1,6 +1,6 @@
 # Today I Learned(TIL)
 
-## ~21.08.21
+## 21.08.03~21.08.13
 - [Final Project 무신사 스타일리뷰 적립금 지급 대상판정 system개발]
     - [Final Project (0) 개요](https://aeda.tistory.com/2)
     - [Final Project (1) Data확보 (Web Scraping)](https://aeda.tistory.com/3)
