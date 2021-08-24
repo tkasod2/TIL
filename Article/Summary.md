@@ -22,7 +22,8 @@
 - 작업에 효과적이지 않은 Token을 배제하는 Expire-Span이라는 기술을 제안 (Facebook의 Sainbayar Sukhbaatar)
 - 원리 : Attention layer를 수정
 
-Attention layer는 softmax 함수(다중클래스 분류시 사용)를 사용하는 layer
+'''Attention layer는 softmax 함수(다중클래스 분류시 사용)를 사용하는 layer'''
 
     1. Wikipedia의 enwik8 텍스트 데이터 세트를 학습시켜서, 다음에 나올 토큰을 예측하는 식으로 진행
-    2. 각 토큰이 
+    2. 각 토큰이 1값에 수렴하면 살리고, 0으로 수렴하면 해당 토큰을 배제함.
+    
