@@ -19,11 +19,22 @@
 #### Article 2 - Sharper Attention
 ![](\Article\1.gif)
 - \#Textmining
-- 작업에 효과적이지 않은 Token을 배제하는 Expire-Span이라는 기술을 제안 (Facebook의 Sainbayar Sukhbaatar)
-- 원리 : Attention layer를 수정
+- 작업에 효과적이지 않은 Token을 배제하는 **Expire-Span**이라는 기술을 제안 (Facebook의 Sainbayar Sukhbaatar)
+- 원리 : Attention layer를 수정 (**Attention layer는 softmax 함수(다중클래스 분류시 사용)를 사용하는 layer**)
+    1. Wikipedia의 enwik8 텍스트 데이터 세트를 학습시켜서, 다음에 나올 토큰을 예측하는 식으로 진행<br> 
+    각 토큰이 1값에 수렴하면 살리고, 0으로 수렴하면 해당 토큰을 배제함.
+    2. loss function은 모델이 임의로 높은 정확도(예측)를 갖는것을 제한함 (모든 토큰을 쓰는게 웬만하면 정확도가 높기때문)
+- 결과 : 총 메모리 사용량, 배치당 교육 시간, 바이트당 비트 수 측면에서 **Expire-span**은 높은 성능을 기록
 
-'''Attention layer는 softmax 함수(다중클래스 분류시 사용)를 사용하는 layer'''
+#### Article 3 - To Bee or Not to Bee
+- \#Robot
+- 토마토를 재배하는 로봇의 활용 (Australia and the U.S.)
+- 자가수분하는 토마토의 특징을 바탕으로 설계된 카메라, 비전 알고리즘 및 공기 압축기가 장착된 로봇으로 재배하는 시스템을 구축
 
-    1. Wikipedia의 enwik8 텍스트 데이터 세트를 학습시켜서, 다음에 나올 토큰을 예측하는 식으로 진행
-    2. 각 토큰이 1값에 수렴하면 살리고, 0으로 수렴하면 해당 토큰을 배제함.
-    
+#### Article4 - Fresh Funds for U.S. Research
+- 미국 국립과학재단(NSF)은 작년에 설립된 7개의 다른 AI 연구 기관을 보완하는 11개의 국립 인공 지능 연구 기관에 2억 2천만 달러를 투자
+- 진행 상황: NSF 보조금은 각 기관에 5년 동안 매년 약 2천만 달러를 제공
+    - 농업 : 기후 변화 적응, 식물 모델링, 정밀 농업과 같은 이니셔티브를 위한 보안 인프라 개발
+    - 산업 : 반도체 제조 자동화
+    - Scientific research: 동적 시스템 제어
+    - 등등
