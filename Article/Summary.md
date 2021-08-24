@@ -17,5 +17,5 @@
 
 
 #### Article 2 - Sharper Attention
-![Alt text](https://ci6.googleusercontent.com/proxy/D805dkrf2WcMVRT8q3cVfYGMTWw5xX6ZJlqpcabP0XfPbTSl2Mrc43Tq1wddEXyESkpRE2351hkA0LipGUfc9NZz_rrEb8W1hbfuCQ9h-v15KmrHq1_91SibneIZJ9S9QPHjjg42iLeZJjWWKEQ=s0-d-e1-ft#https://info.deeplearning.ai/hs-fs/hubfs/FORGET.gif?width=1200&upscale=true&name=FORGET.gif)
+![](https://ci6.googleusercontent.com/proxy/D805dkrf2WcMVRT8q3cVfYGMTWw5xX6ZJlqpcabP0XfPbTSl2Mrc43Tq1wddEXyESkpRE2351hkA0LipGUfc9NZz_rrEb8W1hbfuCQ9h-v15KmrHq1_91SibneIZJ9S9QPHjjg42iLeZJjWWKEQ=s0-d-e1-ft#https://info.deeplearning.ai/hs-fs/hubfs/FORGET.gif?width=1200&upscale=true&name=FORGET.gif)
 - \#Textmining
