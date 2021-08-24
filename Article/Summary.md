@@ -16,7 +16,7 @@
 - 위 연구 결과를 반영해 선 학습한 데이터를 기준으로 예측하면 보다 정확할 수 있다.
 
 
-#### Article 2 - Sharper Attention
+#### **Article 2 - Sharper Attention**
 ![gif](/Article/1.gif)
 - \#Textmining
 - 작업에 효과적이지 않은 Token을 배제하는 **Expire-Span**이라는 기술을 제안 (Facebook의 Sainbayar Sukhbaatar)
