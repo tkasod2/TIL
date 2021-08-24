@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 21.08.24
+- [Article요약](https://github.com/tkasod2/TIL/blob/main/Article/Summary.md)
+- 포트폴리오정리
 ## 21.08.23
 - [Tableau 공부](https://github.com/tkasod2/TIL/blob/main/Tableau/basic.md)
 

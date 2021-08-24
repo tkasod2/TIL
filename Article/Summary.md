@@ -8,6 +8,7 @@
 
 
 #### Article 1 - AI Sees Race in X-Rays
+\# Image # CNN
 - X-ray를 통해 인종을 인식할 수 있다.
 - ImageNet에서 선학습한 Resnet Model로 전이학습 진행했고 80~97% 정확도
     - 체질량, 조직 밀도, 연령 및 성별은 영향주지 않음!
@@ -15,3 +16,6 @@
 - 위 연구 결과를 반영해 선 학습한 데이터를 기준으로 예측하면 보다 정확할 수 있다.
 
 
+#### Article 2 - Sharper Attention
+\# Textmining 
+- 
