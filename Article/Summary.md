@@ -17,7 +17,7 @@
 
 
 #### Article 2 - Sharper Attention
-![](\Article\1.gif)
+![gif](/Article/1.gif)
 - \#Textmining
 - 작업에 효과적이지 않은 Token을 배제하는 **Expire-Span**이라는 기술을 제안 (Facebook의 Sainbayar Sukhbaatar)
 - 원리 : Attention layer를 수정 (**Attention layer는 softmax 함수(다중클래스 분류시 사용)를 사용하는 layer**)
