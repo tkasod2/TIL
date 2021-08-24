@@ -17,5 +17,9 @@
 
 
 #### Article 2 - Sharper Attention
-![](https://ci6.googleusercontent.com/proxy/D805dkrf2WcMVRT8q3cVfYGMTWw5xX6ZJlqpcabP0XfPbTSl2Mrc43Tq1wddEXyESkpRE2351hkA0LipGUfc9NZz_rrEb8W1hbfuCQ9h-v15KmrHq1_91SibneIZJ9S9QPHjjg42iLeZJjWWKEQ=s0-d-e1-ft#https://info.deeplearning.ai/hs-fs/hubfs/FORGET.gif?width=1200&upscale=true&name=FORGET.gif)
+![gif](https://info.deeplearning.ai/hs-fs/hubfs/FORGET.gif?width=1200&upscale=true&name=FORGET.gif)
 - \#Textmining
+- 작업에 효과적이지 않은 Token을 배제하는 Expire-Span이라는 기술을 제안 (Facebook의 Sainbayar Sukhbaatar)
+- 원리 : Attention layer를 수정
+    - '''Attention layer는 softmax 함수(다중클래스 분류시 사용)를 통과시킨 outputlayer'''
+    1. Wikipedia의 enwik8 텍스트 데이터 세트를 사용하여 시퀀스의 다음 문자를 예측
