@@ -2,8 +2,9 @@
 ### 주요 단축키
 - ctrl + 1
     > 서식선택. 특히 테두리, 표시형식 변경
-- ctrl + enter >컬럼 선택
-- shift + enter
+- ctrl + space >컬럼 선택
+- shift + space
+- ctrl + shift + l : 필터
 - 설정 단축키
     - alt+ num
         > 2 값붙여넣기<br>
