@@ -6,9 +6,9 @@
 - shift + enter
 - 설정 단축키
     - alt+ num
-        > 2 값붙여넣기
-        > 8 수식붙여넣기
-        > 9 서식붙여넣기
+        > 2 값붙여넣기<br>
+        > 8 수식붙여넣기<br>
+        > 9 서식붙여넣기<br>
 - ctrl + "+"
 - shift + "+"
 - ctrl + 0
@@ -28,7 +28,7 @@
 - vlookup vs index + match
     - index + match 추천
     > vlookup은 참조값이 table에서 찾은 값 기준, 왼쪽 컬럼에 있지 않으면 못찾음
-    
+
 - index vs offset
     - 편의대로 하시오.
     - offset은 시작지점을 첫 hyper parameter로 넣음
