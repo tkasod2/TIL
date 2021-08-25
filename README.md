@@ -1,7 +1,14 @@
 # Today I Learned(TIL)
+## 21.08.25
+- [세미나_EDA(참조)](http://www.dodomira.com/2016/10/20/how_to_eda/)
+- [세미나_AWS(참조)](https://github.com/jmsmg/TIL/blob/main/AWS/AWS1-Cloud_Computing.md)
+- [세미나_EXCEL(직접작성)](https://github.com/tkasod2/TIL/blob/main/etc/etc.md)
+- 포트폴리오정리(목표는금요일)
+
 ## 21.08.24
-- [Article요약](https://github.com/tkasod2/TIL/blob/main/Article/Summary.md)
+- [세미나_Article요약(직접작성)](https://github.com/tkasod2/TIL/blob/main/Article/Summary.md)
 - 포트폴리오정리
+
 ## 21.08.23
 - [Tableau 공부](https://github.com/tkasod2/TIL/blob/main/Tableau/basic.md)
 
