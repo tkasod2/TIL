@@ -34,6 +34,10 @@
     
 
 ## The Batch 자료 요약
+
+<details markdown="1">
+<summary>21.08.24 Seminar The Batch</summary>
+
 ### 21.08.24 The Batch (21.08.11자료)
 #### 서론
 - DeepLearning에서 경사하강법, 운동량 및 Adam 최적화 알고리즘의 수학적 원리를 이해하면 더 나은 결정을 내리는 데 도움이 된다.
@@ -72,3 +76,5 @@
     - 산업 : 반도체 제조 자동화
     - Scientific research: 동적 시스템 제어
     - 등등
+
+</details>
