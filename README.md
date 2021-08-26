@@ -1,18 +1,32 @@
 # Today I Learned(TIL)
+<details markdown="1">
+<summary>접기/펼치기</summary>
+
+<!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
+</details>
+
+## 21.08.26(목)
+- [범상_세미나_seq2seq](https://github.com/tkasod2/TIL/blob/main/Article/Summary.md)
+- 포트폴리오정리(목표는 오늘로 수정!)
+
 ## 21.08.25(수)
-- [세미나_EDA(참조)](http://www.dodomira.com/2016/10/20/how_to_eda/)
-- [세미나_AWS(참조)](https://github.com/jmsmg/TIL/blob/main/AWS/AWS1-Cloud_Computing.md)
-- [세미나_EXCEL(직접작성)](https://github.com/tkasod2/TIL/blob/main/etc/etc.md)
+- [세미나_EDA](http://www.dodomira.com/2016/10/20/how_to_eda/)
+- [세미나_AWS](https://github.com/jmsmg/TIL/blob/main/AWS/AWS1-Cloud_Computing.md)
+- [범상_세미나_EXCEL](https://github.com/tkasod2/TIL/blob/main/etc/etc.md)
 - 포트폴리오정리(목표는금요일)
 
 ## 21.08.24(화)
-- [세미나_Article요약(직접작성)](https://github.com/tkasod2/TIL/blob/main/Article/Summary.md)
+- [범상_세미나_Article요약(직접작성)](https://github.com/tkasod2/TIL/blob/main/Article/Summary.md)
 - 포트폴리오정리
+
+
+
+
 
 ## 21.08.23(월)
 - [Tableau 공부](https://github.com/tkasod2/TIL/blob/main/Tableau/basic.md)
 
-## 21.08.22
+## 21.08.22(일)
 - [Github 튜토리얼, TIL 만들기 시작](https://aeda.tistory.com/8)
 
 ## 21.08.03~21.08.13
