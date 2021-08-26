@@ -1,10 +1,4 @@
 # Today I Learned(TIL)
-<details markdown="1">
-<summary>접기/펼치기</summary>
-
-<!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
-</details>
-
 ## 21.08.26(목)
 - [범상_세미나_seq2seq](https://github.com/tkasod2/TIL/blob/main/Article/Summary.md)
 - 포트폴리오정리(목표는 오늘로 수정!)
