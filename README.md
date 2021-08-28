@@ -1,4 +1,11 @@
 # Today I Learned(TIL)
+## 21.08.28(토)
+- 자기소개서 작성 시작
+- 다음주 공모전 시작준비(EDA)
+
+## 21.08.27(금)
+- 포트폴리오 정리 완료 - 링크 없음
+
 ## 21.08.26(목)
 - [범상_세미나_seq2seq](https://github.com/tkasod2/TIL/blob/main/Article/Summary.md)
 - 포트폴리오정리(목표는 오늘로 수정!)
@@ -10,6 +17,7 @@
 - 포트폴리오정리(목표는금요일)
 
 ## 21.08.24(화)
+
 - [범상_세미나_Article요약(직접작성)](https://github.com/tkasod2/TIL/blob/main/Article/Summary.md)
 - 포트폴리오정리
 
