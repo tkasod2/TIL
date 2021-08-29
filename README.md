@@ -1,7 +1,7 @@
 # Today I Learned(TIL)
 ## 21.08.29(일)
 - 자기소개서 작성(신한카드)
-- ML/DL 개념 총정리(키워드기반)
+- [ML/DL 개념 총정리 시작](https://github.com/tkasod2/TIL/blob/main/Theory/Theory.md)
 
 ## 21.08.28(토)
 - [엑셀 기초 블로깅 - 줄글형식](https://aeda.tistory.com/13)
