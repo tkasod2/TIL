@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 21.08.29(일)
+- 자기소개서 작성(신한카드)
+
 ## 21.08.28(토)
 - [엑셀 기초 블로깅 - 줄글형식](https://aeda.tistory.com/13)
 - [원티드 비공개 데이터분석 기업 설명회 블로그 정리](https://aeda.tistory.com/11)
