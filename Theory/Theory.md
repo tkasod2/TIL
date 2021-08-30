@@ -24,6 +24,9 @@
     - Validation data : Hyper Params tuning, **Model Select** 목적
     - Test data : Evaluate 목적
 
+
+<details markdown="1">
+<summary>Overfitting, Generalrization</summary>  
 - Overfitting, Generalrization
     - Cross Validation : 
         - K-fold CV : **Startified (층화)**
@@ -32,6 +35,14 @@
                 - 한번씩 돌아가면서 K phase만큼 학습하고, (**Phase마다 모델을 초기화됨.**)
             - K 번을 반복하고 평균값을 사용
             - 목적은, **평가**시에 Train Data에 Overfitting되는것을 방지하는게 첫번째, Hyper Parameter Tuning이 두번째
+</details>
+
+- Gradient Descent Algorithm (경사하강법)
+    - $\theta$, cost 그래프를 생각할것
+    - cost func의 Gradient(기울기)를 기반으로 어느방향으로 이동하면 cost값을 최소화할 수 있는지 찾아가는 방식
+        > 의문? 미분계수 0인걸 비교하면 되지 않나?  
+        컴퓨터가 미분계수를 구하는 계산하는것이 어렵고, 비선형함수나, 다중회귀식이나, 아예 닫힌상태가 아닌경우에는 너무 빡셈
+        
 
 - Supervised Learning
     - Linear Regression : 선형 상관관계를 모델링하는 방법
@@ -44,6 +55,3 @@
 
 <!-- $\hat{x}$  $\tilde{x}$, $\vec{x}$ $\overline{x}$ -->
 <!-- https://rpruim.github.io/s341/S19/from-class/MathinRmd.html -->
-
-
-
