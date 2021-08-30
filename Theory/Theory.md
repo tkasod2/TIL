@@ -56,7 +56,7 @@
 
 - Supervised Learning.
     <details markdown="1">
-    <summary>Supervised Learning (경사하강법)</summary>  
+    <summary>Supervised Learning</summary>  
 
   - Linear Regression : 선형 상관관계를 모델링하는 방법
     - 2개 이상의 독립변수($x$) : "다중"회귀분석(Multivariate)
