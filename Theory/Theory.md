@@ -26,10 +26,24 @@
 
 - Overfitting, Generalrization
     - Cross Validation : 
-        - K-fold CV : **Startified (층화) **
+        - K-fold CV : **Startified (층화)**
             - Test Data를 일정 비율 떼고,
                 - Train + Validation Data를 K등분
                 - 한번씩 돌아가면서 K phase만큼 학습하고, (**Phase마다 모델을 초기화됨.**)
-            - 반복
+            - K 번을 반복하고 평균값을 사용
+            - 목적은, **평가**시에 Train Data에 Overfitting되는것을 방지하는게 첫번째, Hyper Parameter Tuning이 두번째
+
+- Supervised Learning
+    - Linear Regression : 선형 상관관계를 모델링하는 방법
+        - 2개 이상의 독립변수($x$) : "다중"회귀분석(Multivariate)
+        - MSE : 평가지표, 대표적인 Cost Function
+            - ${x_i}$ : i번째, 관측치. $\hat{x_i}$ : i 번째 예측치(회귀를 통한 예측)
+            - ${x_i}$-$\hat{x_i}$ = $error_{i}$
+            - $\frac{\sum_{i = 1}^{...} error_{i}^{2}}{n}$ : MSE
+            - 해당 Cost Function의 최소화를 시키는 Parmeter ${\theta}$를 찾는것.
+
+<!-- $\hat{x}$  $\tilde{x}$, $\vec{x}$ $\overline{x}$ -->
+<!-- https://rpruim.github.io/s341/S19/from-class/MathinRmd.html -->
+
 
 
