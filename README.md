@@ -1,4 +1,8 @@
 # Today I Learned(TIL)
+## 21.08.31(화)
+- [공모전 base code 작성](https://github.com/tkasod2/TIL/tree/main/HAI_contest)
+- [class에대한 고찰](https://aeda.tistory.com/14)
+
 ## 21.08.30(월)
 - 공모전 시작
 - [ML/DL 개념 총정리 - Gradient Descent까지](https://github.com/tkasod2/TIL/blob/main/Theory/Theory.md)
