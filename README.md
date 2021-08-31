@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 21.09.01(수)
+- [eTaPR(enhanced TaPR)](https://github.com/tkasod2/TIL/blob/main/HAI_contest/overview.md)
+
 ## 21.08.31(화)
 - [공모전 base code 작성](https://github.com/tkasod2/TIL/tree/main/HAI_contest)
 - [class에대한 고찰](https://aeda.tistory.com/14)
