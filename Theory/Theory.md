@@ -14,6 +14,8 @@
     - **그래봤자, 결국 정형데이터 처리 기법으로 처리한다.**
 
 ## Machine Learning
+<details markdown="1">
+<summary>펼치기</summary>  
 
 - 정의 : 어떠한 과제 **T**ask는, **P**erformance measure 평가받고, **E**xperience를 통해 학습하는 프로그램.
 - 분류
@@ -69,3 +71,19 @@
 </details>
 <!-- $\hat{x}$  $\tilde{x}$, $\vec{x}$ $\overline{x}$ -->
 <!-- https://rpruim.github.io/s341/S19/from-class/MathinRmd.html -->
+</details>
+
+
+## Deep Learning
+<details markdown="1">
+<summary>펼치기</summary>  
+
+- ML과의 차이점
+  - Feature Engineering이 없음
+- 개요
+![image](https://miro.medium.com/max/639/1*_Epn1FopggsgvwgyDA4o8w.png)
+
+
+
+
+</details>
