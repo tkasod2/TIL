@@ -1,4 +1,8 @@
 # Today I Learned(TIL)
+## 21.09.03(금)
+- [공모전 내용 이해 주석 추가/성적올리기(향후 공개)]
+- [DeepLearning Hyper Parameter에 대해서(작성중)]
+
 ## 21.09.02(목)
 - [공모전 object 재이해](https://github.com/tkasod2/TIL/tree/main/HAI_contest)
 
