@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 21.09.02(목)
+- [공모전 object 재이해](https://github.com/tkasod2/TIL/tree/main/HAI_contest)
+
 ## 21.09.01(수)
 - [eTaPR(enhanced TaPR)](https://github.com/tkasod2/TIL/blob/main/HAI_contest/overview.md)
 
