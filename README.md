@@ -18,7 +18,7 @@
 - [ML/DL 개념 총정리 - Gradient Descent까지](https://github.com/tkasod2/TIL/blob/main/Theory/Theory.md)
 
 ## 21.08.29(일)
-- 자기소개서 작성(신한카드)
+- 자기소개서 작성
 - [ML/DL 개념 총정리 시작](https://github.com/tkasod2/TIL/blob/main/Theory/Theory.md)
 
 ## 21.08.28(토)
