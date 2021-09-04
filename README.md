@@ -1,4 +1,9 @@
 # Today I Learned(TIL)
+## 21.09.04(토)
+- 공모전 성적 제출중
+- DeepLearning Hyper Parameter에 대해서(작성중)
+- 자소서 제출😎(2021 - 하반기 첫 시작)
+
 ## 21.09.03(금)
 - [공모전 내용 이해 주석 추가/성적올리기(향후 공개)]
 - [DeepLearning Hyper Parameter에 대해서(작성중)]
