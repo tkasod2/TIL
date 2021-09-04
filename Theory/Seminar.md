@@ -13,7 +13,7 @@
     - 작으면? Noise 증가, regularization 효과, step이 길어짐. local minima로 빠질 위험
     - 그러면 어쩌라고...?ㅠㅠ
         - 32~ 128 추천. [Rethinking "Batch" in BatchNorm](https://arxiv.org/pdf/2105.07576.pdf) 2021. Facebook AI Research. Yuxin Wu, Justin Johnson
-            > __ page6, 4-1 __In this experiment, the best validation error is found at a normalization batch size of 32∼128, where the amount of noise and inconsistency provides balanced regularization.
+            > [page6, 4-1 발췌] In this experiment, the best validation error is found at a normalization batch size of 32∼128, where the amount of noise and inconsistency provides balanced regularization.
         - 32 이상하면 말리라는 ...;;
         ![image](Yann_LeCun.png)
     - **결국 Learning Rate와 조절이 같이 되어야함.**
