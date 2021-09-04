@@ -12,7 +12,7 @@
     - 크면? Noise 감소(Batch 로 부터 Normalization을 하기때문), 학습속도 빠름 , Overfitting 위험
     - 작으면? Noise 증가, regularization 효과, step이 길어짐. local minima로 빠질 위험
     - 그러면 어쩌라고...?ㅠㅠ
-        - 32~ 128 추천. [Rethinking "Batch" in BatchNorm](https://arxiv.org/abs/2105.07576) 2021. Facebook. Yuxin Wu, Justin Johnson
+        - 32~ 128 추천. [Rethinking "Batch" in BatchNorm](https://arxiv.org/pdf/2105.07576.pdf) 2021. Facebook AI Research. Yuxin Wu, Justin Johnson
         - 32 이상하면 말리라는 ...;;
         ![image](Yann_LeCun.png)
     - **결국 Learning Rate와 조절이 같이 되어야함.**
