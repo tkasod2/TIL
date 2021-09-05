@@ -1,5 +1,13 @@
 ## 딥러닝에서의 Hyper Parameter에 대하여
 
+- Batch 정규화
+    <details markdown="1">
+    <summary>출처</summary>  
+
+    출처1(Batch 정규화) : https://eehoeskrap.tistory.com/430
+
+    </details>
+
 - Batch Size 
     <details markdown="1">
     <summary>출처</summary>  
@@ -18,3 +26,26 @@
         ![image](Yann_LeCun.png)
     - **결국 Learning Rate와 조절이 같이 되어야함.**
 
+- Learning Rate
+    <details markdown="1">
+    <summary>출처</summary>  
+
+    출처1(PyTorch가 제공하는 Learning rate scheduler 정리) : https://sanghyu.tistory.com/113
+    </details>
+    
+    - 크면? Overshooting 현상으로 loss 발산의 위험
+    - 작으면? Local Minima에 빠질 위험
+    - 그러면? Learning Rate를 점차 줄여서 학습시키는 기법 활용
+    - 단, 첫 lr에 대한 완벽한 방법은 없을듯.
+        - LambdaLR 활용 epoch마다 곱해주는 방식
+        - 추가로 StepLR, MultiStepLR, ExponentialLR, ReduceLROnPlateau 등이 있음.
+        > ### pytorch code 예시(1)
+        > optimizer = torch.optim.SGD(model.parameters(), lr=0.001)
+        > scheduler = optim.lr_scheduler.LambdaLR(optimizer=optimizer,
+                                lr_lambda=lambda epoch: 0.95 ** epoch)
+        
+        > ### pytorch code 예시(2)
+        > lr_scheduler = torch.optim.lr_scheduler.ExponentialLR(optimizer, 0.997)
+        > lr_scheduler.step()
+
+        
