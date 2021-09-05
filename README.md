@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 21.09.06(월)
+- [Seminar자료 Num of Layers와 Num of Layers/Nodes에 대해](https://github.com/tkasod2/TIL/blob/main/Theory/Seminar.md)
+
 ## 21.09.05(일)
 - [Seminar자료 Batch와 LR에 대해](https://github.com/tkasod2/TIL/blob/main/Theory/Seminar.md)
 - 지원 완료(2021하반기 1번째)

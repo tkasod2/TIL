@@ -66,4 +66,30 @@
         > lr_scheduler = torch.optim.lr_scheduler.ExponentialLR(optimizer, 0.997)
         > lr_scheduler.step()
 
+
+- Num of Layers/Nodes(;Sizes) : 💥주의 2011년 자료를 출처로함
+    <details markdown="1">
+    <summary>출처</summary>
+    
+    + 출처1(https://stats.stackexchange.com/questions/181/how-to-choose-the-number-of-hidden-layers-and-nodes-in-a-feedforward-neural-netw)
+
+    + 출처2(https://machinelearningmastery.com/how-to-configure-the-number-of-layers-and-nodes-in-a-neural-network/) : 
+    </details>
+
+    - *One hidden layer is sufficient for the large majority of problems.*  
+    Hidden Layer 추가로 성능이 올라가는법은 거의 없다.
+    - 경험적으로, Input Layer와 Output Layer의 중간에서 Num of Nodes를 정한다.
+
+    - Single Layers vs Multiple Layers 
+        - A single-layer neural network can only be used to represent linearly separable functions.(선형문제는 Hidden Layer 하나일때 좋음.)
+        - Since a single sufficiently large hidden layer is adequate for approximation of most functions, why would anyone ever use more?
+        - 결론 : 그때그때 다르다. 
+
+
+    - 적절한 갯수의 Nodes 갯수 설정
+        - I don’t know. Use systematic experimentation to discover what works best for your specific dataset.
+        - Steffen B Petersen(2013) 💥개인의견뿐일수도 있음.
+            - neurons 설정은 input layer와 output layer 사이의 값으로 설정
+            - hidden node= input node *2/3 + output node
+            - hidden nodes는 input nodes 의 2배보다 작아야됨
         
