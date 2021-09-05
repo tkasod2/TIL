@@ -1,8 +1,11 @@
 # Today I Learned(TIL)
+## 21.09.05(일)
+- [Seminar자료 Batch와 LR에 대해](https://github.com/tkasod2/TIL/blob/main/Theory/Seminar.md)
+- 지원 완료(2021하반기 1번째)
+
 ## 21.09.04(토)
 - 공모전 성적 제출중
 - DeepLearning Hyper Parameter에 대해서(작성중)
-- 자소서 제출😎(2021 - 하반기 첫 시작)
 - [무근거_블로깅(파이토치vs텐서플로우)](https://aeda.tistory.com/15)
 
 ## 21.09.03(금)

@@ -4,8 +4,8 @@
     <details markdown="1">
     <summary>출처</summary>  
 
-    출처1(Batch Normalizaion) : https://arxiv.org/pdf/1502.03167.pdf
-    출처2(Batch 정규화) : https://eehoeskrap.tistory.com/430
+    + 출처1(Batch Normalizaion) : https://arxiv.org/pdf/1502.03167.pdf
+    + 출처2(Batch 정규화) : https://eehoeskrap.tistory.com/430
     </details>
 
     - BN 배경
@@ -30,9 +30,9 @@
     <details markdown="1">
     <summary>출처</summary>  
 
-    출처1(컴퓨터 비전 관점 Batchsize) : https://deep-learning-study.tistory.com/647
-    출처2(러닝레이트& 배치사이즈) : https://honeyjamtech.tistory.com/43
-    출처3(러닝레이트& 배치사이즈) : https://inhovation97.tistory.com/32
+    + 출처1(컴퓨터 비전 관점 Batchsize) : https://deep-learning-study.tistory.com/647
+    + 출처2(러닝레이트& 배치사이즈) : https://honeyjamtech.tistory.com/43
+    + 출처3(러닝레이트& 배치사이즈) : https://inhovation97.tistory.com/32
     </details>
 
     - 크면? Noise 감소(Batch 로 부터 Normalization을 하기때문), 학습속도 빠름 , Overfitting 위험
@@ -48,7 +48,7 @@
     <details markdown="1">
     <summary>출처</summary>  
 
-    출처1(PyTorch가 제공하는 Learning rate scheduler 정리) : https://sanghyu.tistory.com/113
+    + 출처1(PyTorch가 제공하는 Learning rate scheduler 정리) : https://sanghyu.tistory.com/113
     </details>
     
     - 크면? Overshooting 현상으로 loss 발산의 위험
