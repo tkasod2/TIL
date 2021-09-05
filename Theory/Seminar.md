@@ -1,12 +1,30 @@
 ## 딥러닝에서의 Hyper Parameter에 대하여
 
-- Batch 정규화
+- Batch Normalization ; BN
     <details markdown="1">
     <summary>출처</summary>  
 
-    출처1(Batch 정규화) : https://eehoeskrap.tistory.com/430
-
+    출처1(Batch Normalizaion) : https://arxiv.org/pdf/1502.03167.pdf
+    출처2(Batch 정규화) : https://eehoeskrap.tistory.com/430
     </details>
+
+    - BN 배경
+        - Gradient Exploding / Vanishing : param's의 변화에 따른 output 변화를 기반으로 학습하는 신경망에서, 해당 이슈로 인해 Error가 큰상태로 수렴하게됨.
+        - 특히, Sigmoid, Tanh 등의 활성화 함수에서 출력값의 범위가 굉장히 좁아지는데, (sigmoid 경우 [0,1]) Hidden Layer 중에 이러한 비선형성 레이어가 섞어들어가게되면 결국 학습이 제대로 되지 않게됨.
+        - 이에 대응하는 **직접적인 방법으로써 BN이 출현하게됨**
+    - 왜 BN?
+        - Whitening (= Standard Generalization)의 한계
+            - covariance matrix 계산, inverse matrix 계산이 너무 많음
+            - bias의 영향력이 사라지게됨
+            - Backpropagation이 무시되고 특정 파라미터만 무지 커지게됨
+        - 학습 시 평균과 분산의 조정 과정이 신경망 안에 포함
+        ![image](batch_normalization.png)
+        - Gradient Vanishing과 Exploding의 원인은 scale 문제.
+            - BN 사용하면 이에 대한 영향이 극도로 작아짐
+            - BN 사용하면 Regularization 효과가 있기에 dropout 안써도 됨
+            
+
+
 
 - Batch Size 
     <details markdown="1">
