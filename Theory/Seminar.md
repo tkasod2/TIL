@@ -23,8 +23,7 @@
             - BN 사용하면 이에 대한 영향이 극도로 작아짐
             - BN 사용하면 Regularization 효과가 있기에 dropout 안써도 됨
             
-
-
+<br>
 
 - Batch Size 
     <details markdown="1">
@@ -42,7 +41,9 @@
             > [page6, 4-1 발췌] In this experiment, the best validation error is found at a normalization batch size of 32∼128, where the amount of noise and inconsistency provides balanced regularization.
         - 32 이상하면 말리라는 ...;;
         ![image](Yann_LeCun.png)
-    - **결국 Learning Rate와 조절이 같이 되어야함.**
+    - **결국 Learning Rate와 조절이 같이 되어야함.**  
+
+<br>
 
 - Learning Rate
     <details markdown="1">
@@ -66,6 +67,7 @@
         > lr_scheduler = torch.optim.lr_scheduler.ExponentialLR(optimizer, 0.997)
         > lr_scheduler.step()
 
+<br>
 
 - Num of Layers/Nodes(;Sizes) : 💥주의 2011년 자료를 출처로함
     <details markdown="1">
@@ -92,4 +94,6 @@
             - neurons 설정은 input layer와 output layer 사이의 값으로 설정
             - hidden node= input node *2/3 + output node
             - hidden nodes는 input nodes 의 2배보다 작아야됨
-        
+
+<br>
+<br>
