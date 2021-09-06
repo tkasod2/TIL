@@ -2,9 +2,12 @@
 ## 21.09.07(화)
 - [Seminar자료 Data저장소](https://github.com/tkasod2/TIL/blob/main/Theory/Seminar.md)
 - [네이버 영화 리뷰 감성분석 블로깅(1/2)](https://aeda.tistory.com/16)
+- 이력서 작성중
 
 ## 21.09.06(월)
 - [Seminar자료 Num of Layers와 Num of Layers/Nodes에 대해](https://github.com/tkasod2/TIL/blob/main/Theory/Seminar.md)
+- 공모전 Code개선(Feature Selection, Code정리)
+- 이력서 작성중
 
 ## 21.09.05(일)
 - [Seminar자료 Batch와 LR에 대해](https://github.com/tkasod2/TIL/blob/main/Theory/Seminar.md)
