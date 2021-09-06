@@ -1,4 +1,45 @@
-## 딥러닝에서의 Hyper Parameter에 대하여
+## Data 저장소 (21.09.07)
+
+<details markdown="1">
+
+
+- Data 저장소 종류와 특징
+    <details markdown="1">
+    <summary>출처</summary>
+
+    + 출처1 : https://couplewith.tistory.com/entry/Bigdata-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9B%A8%EC%96%B4-%ED%95%98%EC%9A%B0%EC%8A%A4-DataWare-House-%EA%B7%B8%EB%A6%AC%EA%B3%A0-Data-Lake
+    + 출처2 : https://ko.myservername.com/what-is-data-lake-data-warehouse-vs-data-lake
+
+    + 출처3 : https://datalibrary.tistory.com/100
+
+    </details>
+
+    - Data Mart
+        ![image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDf8UW%2FbtqQXBXOAsD%2F6JCIJiWMFFvWkZwFm7fGiK%2Fimg.png)
+        - Data Warehouse에 있는 작은 하위 집합으로 주로 구체적인 특정 부서나 프로젝트 등의 작은 단위의 분석을 요구할 때에 사용
+        - DW에서 분석에 필요한 정보만을 뽑아서 *요약된 데이터로* 구성
+        - DW없이 단독으로 구축하기도함
+
+    - Data Warehouse (;DW) 
+        - DB(Database)와의 차이? 
+            - DB는 보통, 축적 데이터를 통한 트랜잭션 처리가 목적이라 소규모 데이터에 대한 대규모의 접근이 용이함
+            - 반면, DW는 **빅데이터 분석을 위한 목적** 으로, 여러 출처의 데이터를 정제하여 담고 있고, 데이터 처리량의 극대화를 특징으로 가짐
+        - DW 정의 : Data기반의 평가를 내릴 수 있도록 분석가능한 중앙 Repository
+        - 즉 반복적인 보고, 작업 등에 활용되는 데이터를 저장하는 창고
+        - 정제가 되어있는 데이터
+        - SQL, BI를 통해서 데이터에 접근
+
+    - Data Lake(*new*)
+        - DW와의 차이?
+            ![image](https://blog.kakaocdn.net/dn/cWmHkY/btqM64UYwAQ/xDyhwYXDNSudbqXny6uc7K/img.webp)
+            - 별도의 정제 과정이 없이, raw data 상태로 저장(즉, data의 In과 동시에 Out이 가능함)
+            - 스키마(데이터 꼴)이 분석하는 시점에 쓰여짐 (DW는, 웨어하우스 구현단계에서 생성됨)
+            - 상대적으로 유연성이 굉장히 좋음
+</details>
+
+
+## 딥러닝에서의 Hyper Parameter에 대하여 (21.09.06)
+<details markdown="1">
 
 - Batch Normalization ; BN
     <details markdown="1">
@@ -97,3 +138,5 @@
 
 <br>
 <br>
+
+</details>
