@@ -1,6 +1,7 @@
 # Today I Learned(TIL)
 ## 21.09.07(화)
 - [Seminar자료 Data저장소](https://github.com/tkasod2/TIL/blob/main/Theory/Seminar.md)
+- [네이버 영화 리뷰 감성분석 블로깅(1/2)](https://aeda.tistory.com/16)
 
 ## 21.09.06(월)
 - [Seminar자료 Num of Layers와 Num of Layers/Nodes에 대해](https://github.com/tkasod2/TIL/blob/main/Theory/Seminar.md)
