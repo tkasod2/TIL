@@ -1,11 +1,19 @@
 # Today I Learned(TIL)
+## 21.09.08(수)
+- [네이버 영화 리뷰 감성분석 블로깅(2/2)](https://aeda.tistory.com/17)
+- [개데박세미나_성곤 Time series](https://github.com/jmsmg/TIL/blob/main/DeepLearning/데이터별%20분석방법/Time_Series_data.md)
+- [개데박세미나_소연 Activation Function](https://github.com/blackpearl-09/TIL/blob/main/Activation_Function.ipynb)
+- 자소서 추가 작성
+
 ## 21.09.07(화)
 - [Seminar자료 Data저장소](https://github.com/tkasod2/TIL/blob/main/Theory/Seminar.md)
 - [네이버 영화 리뷰 감성분석 블로깅(1/2)](https://aeda.tistory.com/16)
 - 이력서 작성중
 
 ## 21.09.06(월)
-- [Seminar자료 Num of Layers와 Num of Layers/Nodes에 대해](https://github.com/tkasod2/TIL/blob/main/Theory/Seminar.md)
+- [개데박세미나_범상_Num of Layers와 Num of Layers/Nodes에 대해](https://github.com/tkasod2/TIL/blob/main/Theory/Seminar.md)
+- [개데박세미나_성곤 Backpropagation의 수학적 이해](https://github.com/jmsmg/TIL/blob/main/%EA%B8%B0%EC%B4%88%EC%88%98%ED%95%99/mathmatics.md)
+- [개데박세미나_소연 LearningRate](https://github.com/blackpearl-09/TIL/blob/main/딥러닝_학습향상을_위한_고려사항1_Learning_Rate.ipynb)
 - 공모전 Code개선(Feature Selection, Code정리)
 - 이력서 작성중
 
@@ -27,6 +35,9 @@
 
 ## 21.09.01(수)
 - [eTaPR(enhanced TaPR)](https://github.com/tkasod2/TIL/blob/main/HAI_contest/overview.md)
+- 범상_세미나 - 공모전 평가지표 eTaPR에 대하여
+- [세미나_RNN(성곤)](https://github.com/jmsmg/TIL/blob/main/DeepLearning/RNN.md)
+
 
 ## 21.08.31(화)
 - [공모전 base code 작성](https://github.com/tkasod2/TIL/tree/main/HAI_contest)
