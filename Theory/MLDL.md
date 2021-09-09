@@ -82,11 +82,12 @@
     - ANN
         - Forward Propagation (Feedforward NN) : costfunction의 cost를 낮추도록 Gradient Descent를 적용하여, 원하는 결과를 얻어내기위한 적절한 $\theta$ 를 구하는 방식
             - Layer의 복잡도가 커질수록, 연산이 너무 복잡해짐!
+            - 과거데이터(input 단에 가까운애들)에 대한 기억이 상실될 가능성 큼.
         - Back Propagation : Forward 학습을 한번 하고, error(학습된 출력값 - 실제값)를 계산하여 역방향으로 전파하는 알고리즘
             - 틀린 정도(error)의 gradient(기울기)값을 역으로 계산해나가면서, G.D를 적용하고 적절한 $\theta$ 를 갱신하게함
                 - Gradient Vanishing / Gradient Explode
         - http://playground.tensorflow.org/
 
-        
+
 
 
