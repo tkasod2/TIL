@@ -50,6 +50,7 @@
                 - K 번을 반복하고 평균값을 사용
                 - 목적은, **평가**시에 Train Data에 Overfitting되는것을 방지하는게 첫번째, Hyper Parameter Tuning이 두번째
 - Gradient Descent Algorithm (경사하강법)
+    - **cost fn vs loss fn vs objective fn????**
     - Cost Function : 가장 적합한 Parameter $\theta$ 를 찾기위해,  $\hat{y}$ 와, $y$의 차이를 기반으로 모델 성능 지표를 찾는걸 도와주는 함수
     - cost func의 Gradient(기울기)를 기반으로 어느방향으로 이동하면 cost값을 최소화할 수 있는지 찾아가는 방식
     > 의문? 미분계수 0인걸 비교하면 되지 않나?  
@@ -72,6 +73,7 @@
 ![image](https://miro.medium.com/max/639/1*_Epn1FopggsgvwgyDA4o8w.png)
 
 - Activation Function
+    - 정의 : 이전레이어의 가중합을 받아 출력값을 생성해, 다음 레이어로 전달하는 **비선형 함수**
     - 왜 쓰는가? weight와 sum을 통한 NN 모델은 결국 **선형결합(Linear combination)**
     - 그럼, 결국 비선형의 패턴을 가진 데이터에대해서는 설명이 불가능함
     - 따라서, 비선형 함수인 Activation Function을 통과시켜서 데이터에 대한 이해도를 높이는거

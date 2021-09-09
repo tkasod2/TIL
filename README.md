@@ -1,4 +1,8 @@
 # Today I Learned(TIL)
+## 21.09.09(목)
+- [개데박세미나_범상 MLDL 기초](https://github.com/tkasod2/TIL/blob/main/Theory/MLDL.md)
+- [개데박세미나_소연 Activation Function2]()
+
 ## 21.09.08(수)
 - [네이버 영화 리뷰 감성분석 블로깅(2/2)](https://aeda.tistory.com/17)
 - [개데박세미나_성곤 Time series](https://github.com/jmsmg/TIL/blob/main/DeepLearning/데이터별%20분석방법/Time_Series_data.md)
