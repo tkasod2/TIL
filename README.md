@@ -1,7 +1,10 @@
 # Today I Learned(TIL)
+## 21.09.10(금)
+- [개데박세미나_소연 Weight initialization](https://github.com/blackpearl-09/TIL/blob/main/Weight_initialization_1.ipynb)
+
 ## 21.09.09(목)
 - [개데박세미나_범상 MLDL 기초](https://github.com/tkasod2/TIL/blob/main/Theory/MLDL.md)
-- [개데박세미나_소연 Activation Function2]()
+- [개데박세미나_소연 Activation Function2](https://github.com/blackpearl-09/TIL/blob/main/Activation_Function_2.ipynb)
 - 줄글자소서 작성.
 
 ## 21.09.08(수)
