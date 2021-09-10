@@ -1,6 +1,7 @@
 # Today I Learned(TIL)
 ## 21.09.10(금)
 - [개데박세미나_소연 Weight initialization](https://github.com/blackpearl-09/TIL/blob/main/Weight_initialization_1.ipynb)
+- [개데박세미나_혜민 The Batch](https://github.com/tkasod2/TIL/blob/main/etc/interview.md)
 
 ## 21.09.09(목)
 - [개데박세미나_범상 MLDL 기초](https://github.com/tkasod2/TIL/blob/main/Theory/MLDL.md)
@@ -75,7 +76,7 @@
 ## 21.08.25(수)
 - [세미나_EDA](http://www.dodomira.com/2016/10/20/how_to_eda/)
 - [세미나_AWS](https://github.com/jmsmg/TIL/blob/main/AWS/AWS1-Cloud_Computing.md)
-- [범상_세미나_EXCEL](https://github.com/tkasod2/TIL/blob/main/etc/etc.md)
+- [범상_세미나_EXCEL](https://github.com/tkasod2/TIL/blob/main/etc/excel.md)
 - 포트폴리오정리(목표는금요일)
 
 ## 21.08.24(화)
