@@ -1,4 +1,8 @@
 # Today I Learned(TIL)
+## 21.09.11(토)
+- [세미나 내용 블로깅1](https://aeda.tistory.com/19)
+- [세미나 내용 블로깅2](https://aeda.tistory.com/18)
+
 ## 21.09.10(금)
 - [개데박세미나_소연 Weight initialization](https://github.com/blackpearl-09/TIL/blob/main/Weight_initialization_1.ipynb)
 - [개데박세미나_혜민 The Batch](https://github.com/tkasod2/TIL/blob/main/etc/interview.md)
