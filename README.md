@@ -1,4 +1,12 @@
 # Today I Learned(TIL)
+## 21.09.13(월)
+- [2021 SW개발인재 공동채용 페스티벌 참석](https://aeda.tistory.com/20)
+- 뱅크샐러드, 삼성전자 지원 완료
+
+## 21.09.12(일)
+- DaSP 자격증 시험
+- 지원서 작성
+
 ## 21.09.11(토)
 - [세미나 내용 블로깅1](https://aeda.tistory.com/19)
 - [세미나 내용 블로깅2](https://aeda.tistory.com/18)
