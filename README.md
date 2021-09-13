@@ -1,6 +1,7 @@
 # Today I Learned(TIL)
 ## 21.09.13(월)
 - [2021 SW개발인재 공동채용 페스티벌 참석](https://aeda.tistory.com/20)
+- [잔디먹는 뱀만들기 블로깅](https://aeda.tistory.com/21)
 - 뱅크샐러드, 삼성전자 지원 완료
 
 ## 21.09.12(일)
