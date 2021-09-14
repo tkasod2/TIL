@@ -1,7 +1,9 @@
 # Today I Learned(TIL)
 ## 21.09.14(화)
 - [개데박코드리뷰_범상 주차수요 예측project](https://aeda.tistory.com/22)
-- [개데박세미나_잔디먹는 뱀만들기 블로깅](https://aeda.tistory.com/21)
+- [개데박세미나 잔디먹는 뱀만들기 블로깅](https://aeda.tistory.com/21)
+- [개데박세미나_성곤 Feature scaling](https://github.com/jmsmg/TIL/blob/main/MachineLearning/preprocessing/Feature_Scaling.md)
+- [개데박세미나_성곤 SVM](https://github.com/jmsmg/TIL/blob/main/MachineLearning/SuperviesedLearning/SVM.md)
 
 ## 21.09.13(월)
 - [2021 SW개발인재 공동채용 페스티벌 참석](https://aeda.tistory.com/20)
