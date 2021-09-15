@@ -1,4 +1,17 @@
-## ML vs DL
+# AI 개요
+
+- AI란? @@데이터를 통해, @@모델을 만들고, @@기능을 만든다
+  - 모델 : 데이터에 대한 설명 방법
+  - 종류 :
+    > Artificial (????) Intellgince  
+    > ANI (Narrow) : 약한 AI, 특정분야에서만  
+    > AGI (General) : 강한 AI, 인간 만큼의 지능  
+    > ASI (super) : 인간을 뛰어 넘는 지능.
+  - 중요 키워드 : Auto ML
+  - 데이터 종류 : 정형 / 반정형(log, Sensor, )/ 비정형(이미지, 비디오, 사운드, Document)
+    - **그래봤자, 결국 정형데이터 처리 기법으로 처리한다.**
+
+# ML vs DL
 ![image](https://miro.medium.com/max/724/1*85gM03JgUpDEQO8JKl9VpA.png)
 
 ![image](https://ars.els-cdn.com/content/image/1-s2.0-S1350946218300119-gr4.jpg)
@@ -23,7 +36,10 @@
 [머신러닝 단기집중과정(15hr)](https://developers.google.com/machine-learning/crash-course/ml-intro)
 [일주일에 논문 한개씩(PR12)](https://www.youtube.com/watch?v=auKdde7Anr8&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS)
 
-## Machine Learning
+# Machine Learning
+
+## Machin Learning 핵심개념
+
 - 정의 : 어떠한 과제 **T**ask는, **P**erformance measure 평가받고, **E**xperience를 통해 학습하는 프로그램.
 - 분류
 
@@ -54,7 +70,7 @@
     - Cost Function : 가장 적합한 Parameter $\theta$ 를 찾기위해,  $\hat{y}$ 와, $y$의 차이를 기반으로 모델 성능 지표를 찾는걸 도와주는 함수
     - cost func의 Gradient(기울기)를 기반으로 어느방향으로 이동하면 cost값을 최소화할 수 있는지 찾아가는 방식
     > 의문? 미분계수 0인걸 비교하면 되지 않나?  
-    >  컴퓨터가 미분계수를 구하는 계산하는것이 어렵고, 비선형함수나, 다중회귀식이나, 아예 닫힌상태가 아닌경우에는 너무 빡셈
+    > 컴퓨터가 미분계수를 구하는 계산하는것이 어렵고, 비선형함수나, 다중회귀식이나, 아예 닫힌상태가 아닌경우에는 너무 빡셈
     - MSE : 평가지표, 대표적인 Cost Function
       - ${x_i}$ : i번째, 관측치. $\hat{x_i}$ : i 번째 예측치(회귀를 통한 예측)
       - ${x_i}$-$\hat{x_i}$ = $error_{i}$
@@ -69,7 +85,10 @@
 
     
 
-## Deep Learning
+# Deep Learning
+
+## Deep Learning 핵심개념
+    
 ![image](https://miro.medium.com/max/639/1*_Epn1FopggsgvwgyDA4o8w.png)
 
 - Activation Function
@@ -85,10 +104,13 @@
         - Forward Propagation (Feedforward NN) : costfunction의 cost를 낮추도록 Gradient Descent를 적용하여, 원하는 결과를 얻어내기위한 적절한 $\theta$ 를 구하는 방식
             - Layer의 복잡도가 커질수록, 연산이 너무 복잡해짐!
             - 과거데이터(input 단에 가까운애들)에 대한 기억이 상실될 가능성 큼.
-        - Back Propagation : Forward 학습을 한번 하고, error(학습된 출력값 - 실제값)를 계산하여 역방향으로 전파하는 알고리즘
+        - Back Propagation : Forward 학습을 한번 하고, **error**(학습된 출력값 - 실제값)를 계산하여 역방향으로 전파하는 알고리즘
             - 틀린 정도(error)의 gradient(기울기)값을 역으로 계산해나가면서, G.D를 적용하고 적절한 $\theta$ 를 갱신하게함
                 - Gradient Vanishing / Gradient Explode
         - http://playground.tensorflow.org/
+
+
+## Deep Learning Model 최적화 개념
 
 
 

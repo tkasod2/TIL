@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 21.09.15(수)
+- [AI.X, SKT 주최 컨퍼런스 1일차](https://aeda.tistory.com/23)
+
 ## 21.09.14(화)
 - [개데박코드리뷰_범상 주차수요 예측project](https://aeda.tistory.com/22)
 - [개데박세미나 잔디먹는 뱀만들기 블로깅](https://aeda.tistory.com/21)
