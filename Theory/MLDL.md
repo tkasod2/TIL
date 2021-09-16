@@ -111,24 +111,47 @@
 
 
 ## Deep Learning Model 최적화 개념
-- Weight Initialization
-    - Perceptron의 선형결합(Linear Combination)의 결과값이 너무 커지거나 작아지지 않게 초기값을 설정
-    Gradient/Exploding Vanishing을 줄일 수 있음
-    - 종류
-        - Xavier Initialization (자비에/세이비어/이그제비어 초기화)
-            - Activation function이 sigmoid나 tanh일때 적용
-            - 딥러닝 라이브러리들의 Default임
-            - 표준편차가 $\sqrt{2/(n_{in}+n_{out})}$ 인 정규분포를 따르게 가중치 초기화 
-                > $n_{in}$ : 이전 layer의 퍼셉트론 수  
-                > $n_{out}$ : 현재 layer의 퍼셉트론 수
-            - ReLU함수에서 사용 시 출력 값이 0으로 수렴하게 되는 현상 발생
-            
+- Neural Network Optimization
+    - Weight Initialization
+        - Perceptron의 선형결합(Linear Combination)의 결과값이 너무 커지거나 작아지지 않게 초기값을 설정
+        Gradient/Exploding Vanishing을 줄일 수 있음
+        - 종류
+            - Xavier Initialization (자비에/세이비어/이그제비어 초기화)
+                - Activation function이 sigmoid나 tanh일때 적용
+                - 딥러닝 라이브러리들의 Default임
+                - 표준편차가 $\sqrt{2/(n_{in}+n_{out})}$ 인 정규분포를 따르게 가중치 초기화 
+                    > $n_{in}$ : 이전 layer의 퍼셉트론 수  
+                    > $n_{out}$ : 현재 layer의 퍼셉트론 수
+                - ReLU함수에서 사용 시 출력 값이 0으로 수렴하게 되는 현상 발생
 
-        - He Initialzation (헤/흐어 초기화)
-            - Activation function이 ReLU함수일때 적용
-            - 표준편차가 $\sqrt{2/n_{in}}$ 인 정규분포를 따르게 가중치 초기화 
 
-- Weight Regularization
+            - He Initialzation (헤/흐어 초기화)
+                - Activation function이 ReLU함수일때 적용
+                - 표준편차가 $\sqrt{2/n_{in}}$ 인 정규분포를 따르게 가중치 초기화 
+
+    - Weight Regularization
+        - Train data만 고려된 Cost Function으로 Gradient Descent를 하면 Overfitting 위험도가 큼
+        - 해서, $\theta$ 에 대한, 함수를 추가함
+        ![image](https://www.oreilly.com/library/view/hands-on-machine-learning/9781788393485/assets/320843d0-3683-4422-80b2-c2913f8d02d4.png)
+        - 간단한 예로는,아래 예시로 표현할 수 있음
+        $$ J(\theta)= MSE+ \lambda*R(\theta) $$
+        $*\lambda$ : 정규화율(Regularization Rate)
+        - 모델 복합도↑ → overfitting → MSE↓ → Regularization Term ↑
+        - 위 Trade-off 속에서 최적값을 찾아냄
+        - L1, L2
+
+        ![image](https://miro.medium.com/max/450/1*-LydhQEDyg-4yy5hGEj5wA.png)
+
+        - 아래 그림처럼, $\theta$의 변화를 통해서, 가장 낮은 MSE를 찾는(그림상에서 접점을 찾는) 방식으로 parameter가 결정됨
+    <img src="weight_regularization.png" width="80%" height="80%"/>
+        - $*\lambda$ (Regularization Rate) : 스칼라값으로, 정규화 함수의 상대적 중요도
+        
+    - Advanced gradient descent algorithms
+        - 세미나내용 참고(https://github.com/tkasod2/TIL/blob/main/Theory/Seminar.md)
+        - learning rate
+        - Batch Size
+        - Optimizaer
+        ![image](https://image.slidesharecdn.com/random-170910154045/95/-49-638.jpg?cb=1505089848)
 
 
 
