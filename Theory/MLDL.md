@@ -121,7 +121,8 @@
             - 표준편차가 $\sqrt{2/(n_{in}+n_{out})}$ 인 정규분포를 따르게 가중치 초기화 
                 > $n_{in}$ : 이전 layer의 퍼셉트론 수  
                 > $n_{out}$ : 현재 layer의 퍼셉트론 수
-            - ReLU함수에서 사용 시 출력 값이 0으로 수렴하게 되는 현상
+            - ReLU함수에서 사용 시 출력 값이 0으로 수렴하게 되는 현상 발생
+            
 
         - He Initialzation (헤/흐어 초기화)
             - Activation function이 ReLU함수일때 적용

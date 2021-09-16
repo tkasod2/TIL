@@ -1,4 +1,11 @@
 # Today I Learned(TIL)
+## 21.09.16(목)
+- [AI.X, SKT 주최 컨퍼런스 2일차-끝](https://aeda.tistory.com/24)
+- [개데박세미나_성곤 KNN](https://github.com/jmsmg/TIL/blob/main/MachineLearning/SuperviesedLearning/KNN.md)
+    - [참고 자료](https://ko.wikinew.wiki/wiki/Minkowski_distance)
+- [개데박코드리뷰_소연](https://drive.google.com/file/d/1cT0rHn5rPHRu5BBP_GQTEKM6FVaDei8Y/view?usp=sharing)
+- [인터뷰준비](https://www.notion.so/Banksalad_interview-d67dc61110044f49a144562e7b318cd2)
+
 ## 21.09.15(수)
 - [AI.X, SKT 주최 컨퍼런스 1일차](https://aeda.tistory.com/23)
 
