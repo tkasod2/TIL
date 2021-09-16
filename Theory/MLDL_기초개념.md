@@ -1,5 +1,6 @@
 # AI 개요
-
+<details markdown="1">
+<summary>펼치기</summary>  
 - AI란? @@데이터를 통해, @@모델을 만들고, @@기능을 만든다
   - 모델 : 데이터에 대한 설명 방법
   - 종류 :
@@ -10,8 +11,11 @@
   - 중요 키워드 : Auto ML
   - 데이터 종류 : 정형 / 반정형(log, Sensor, )/ 비정형(이미지, 비디오, 사운드, Document)
     - **그래봤자, 결국 정형데이터 처리 기법으로 처리한다.**
+</details>
 
 # ML vs DL
+<details markdown="1">
+<summary> ML vs DL</summary>  
 ![image](https://miro.medium.com/max/724/1*85gM03JgUpDEQO8JKl9VpA.png)
 
 ![image](https://ars.els-cdn.com/content/image/1-s2.0-S1350946218300119-gr4.jpg)
@@ -35,10 +39,18 @@
 - c.f) 공부 소스
 [머신러닝 단기집중과정(15hr)](https://developers.google.com/machine-learning/crash-course/ml-intro)
 [일주일에 논문 한개씩(PR12)](https://www.youtube.com/watch?v=auKdde7Anr8&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS)
+</details>
 
 # Machine Learning
 
 ## Machin Learning 핵심개념
+- 목차
+    - 분류
+    - Overfitting and Generalization
+    - Gradient Descent Algorithm
+종류
+<details markdown="1">
+<summary>펼치기</summary>  
 
 - 정의 : 어떠한 과제 **T**ask는, **P**erformance measure 평가받고, **E**xperience를 통해 학습하는 프로그램.
 - 분류
@@ -82,13 +94,19 @@
     - Unsupervised Learning (비지도학습)
     - Reinforcement Learning (강화학습)
     
-
+</details>
     
 
 # Deep Learning
 
 ## Deep Learning 핵심개념
-    
+- 목차
+    - Activation Function
+    - 모델 구분
+
+<details markdown="1">
+<summary>펼치기</summary>  
+
 ![image](https://miro.medium.com/max/639/1*_Epn1FopggsgvwgyDA4o8w.png)
 
 - Activation Function
@@ -108,9 +126,21 @@
             - 틀린 정도(error)의 gradient(기울기)값을 역으로 계산해나가면서, G.D를 적용하고 적절한 $\theta$ 를 갱신하게함
                 - Gradient Vanishing / Gradient Explode
         - http://playground.tensorflow.org/
-
+</details>
 
 ## Deep Learning Model 최적화 개념
+- 목차
+    - Neural Network Optimization
+        - Weight Initialization
+        - Weight Regularization
+        - Advanced gradient descent algorithms (about HPO)
+    - Avoid Overfitting
+        - Drop out
+        - Batch Normalization
+        
+<details markdown="1">
+<summary>펼치기</summary>  
+
 - Neural Network Optimization
     - Weight Initialization
         - Perceptron의 선형결합(Linear Combination)의 결과값이 너무 커지거나 작아지지 않게 초기값을 설정
@@ -162,3 +192,5 @@
         - 최적 cost value로 접근하는데 꼭 필요함
         - 일반적으로 activation function 진행전에 batch normalization을 진행하는데 이에대해서는 아직 정설은 없음(실험중)
         - 장점 : **학습속도**& 학습 시간 개선, 초기값에 영향 적음, overfitting이 잘 일어나지않음
+
+</details>
