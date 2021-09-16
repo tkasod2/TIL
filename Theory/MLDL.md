@@ -111,7 +111,23 @@
 
 
 ## Deep Learning Model 최적화 개념
+- Weight Initialization
+    - Perceptron의 선형결합(Linear Combination)의 결과값이 너무 커지거나 작아지지 않게 초기값을 설정
+    Gradient/Exploding Vanishing을 줄일 수 있음
+    - 종류
+        - Xavier Initialization (자비에/세이비어/이그제비어 초기화)
+            - Activation function이 sigmoid나 tanh일때 적용
+            - 딥러닝 라이브러리들의 Default임
+            - 표준편차가 $\sqrt{2/(n_{in}+n_{out})}$ 인 정규분포를 따르게 가중치 초기화 
+                > $n_{in}$ : 이전 layer의 퍼셉트론 수  
+                > $n_{out}$ : 현재 layer의 퍼셉트론 수
+            - ReLU함수에서 사용 시 출력 값이 0으로 수렴하게 되는 현상
 
+        - He Initialzation (헤/흐어 초기화)
+            - Activation function이 ReLU함수일때 적용
+            - 표준편차가 $\sqrt{2/n_{in}}$ 인 정규분포를 따르게 가중치 초기화 
+
+- Weight Regularization
 
 
 
