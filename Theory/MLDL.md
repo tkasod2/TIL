@@ -157,7 +157,7 @@
     - Drop out
         - 일부 Perceptron을 꺼서, 편향을 막아줌
         - 앙상블 효과가 있음
-    - Batch normalization
+    - [Batch normalization](https://github.com/tkasod2/TIL/blob/main/Theory/Seminar.md)
         - scale에 의해 특정 params에 집중되는걸 막아주는 효과
         - 최적 cost value로 접근하는데 꼭 필요함
         - 일반적으로 activation function 진행전에 batch normalization을 진행하는데 이에대해서는 아직 정설은 없음(실험중)
