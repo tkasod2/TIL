@@ -164,7 +164,7 @@
         - 해서, $\theta$ 에 대한, 함수를 추가함
         ![image](https://www.oreilly.com/library/view/hands-on-machine-learning/9781788393485/assets/320843d0-3683-4422-80b2-c2913f8d02d4.png)
         - 간단한 예로는,아래 예시로 표현할 수 있음
-        $$ J(\theta)= MSE+ \lambda*R(\theta) $$
+        $$ J(\theta)=MSE+\lambda*R(\theta) $$
         $*\lambda$ : 정규화율(Regularization Rate)
         - 모델 복합도↑ → overfitting → MSE↓ → Regularization Term ↑
         - 위 Trade-off 속에서 최적값을 찾아냄
