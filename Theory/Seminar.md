@@ -59,7 +59,7 @@
             - bias의 영향력이 사라지게됨
             - Backpropagation이 무시되고 특정 파라미터만 무지 커지게됨
         - 학습 시 평균과 분산의 조정 과정이 신경망 안에 포함
-        ![image](batch_normalization.png)
+        ![image](./image/batch_normalization.png)
         - Gradient Vanishing과 Exploding의 원인은 scale 문제.
             - BN 사용하면 이에 대한 영향이 극도로 작아짐
             - BN 사용하면 Regularization 효과가 있기에 dropout 안써도 됨
@@ -81,7 +81,7 @@
         - 32~ 128 추천. [Rethinking "Batch" in BatchNorm](https://arxiv.org/pdf/2105.07576.pdf) 2021. Facebook AI Research. Yuxin Wu, Justin Johnson
             > [page6, 4-1 발췌] In this experiment, the best validation error is found at a normalization batch size of 32∼128, where the amount of noise and inconsistency provides balanced regularization.
         - 32 이상하면 말리라는 ...;;
-        ![image](Yann_LeCun.png)
+        ![image](./image/Yann_LeCun.png)
     - **결국 Learning Rate와 조절이 같이 되어야함.**  
 
 <br>

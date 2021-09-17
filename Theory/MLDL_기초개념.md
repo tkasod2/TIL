@@ -192,4 +192,4 @@
         - 최적 cost value로 접근하는데 꼭 필요함
         - 일반적으로 activation function 진행전에 batch normalization을 진행하는데 이에대해서는 아직 정설은 없음(실험중)
         - 장점 : **학습속도**& 학습 시간 개선, 초기값에 영향 적음, overfitting이 잘 일어나지않음
-
+![image](./image/MLDL_기초개념5.png)
