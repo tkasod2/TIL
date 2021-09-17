@@ -1,4 +1,10 @@
 # Today I Learned(TIL)
+## 21.09.17(금)
+- [개데박코드리뷰_성곤 주차수요 예측](https://github.com/jmsmg/TIL/blob/main/공모전/수상작/%5B장어%2C_Private%201위%2C%20점수%2098.76%5D%20Pycaret%20활용%20주차%20수요%20예측.ipynb)
+- [개데박세미나_범상 MLDL- Deep Learning 완료](https://github.com/tkasod2/TIL/blob/main/Theory/MLDL_%EA%B8%B0%EC%B4%88%EA%B0%9C%EB%85%90.md)
+- [개데박세미나_성곤 K-means]()
+- [개데박세미나_소연 Countervectorizer]()
+
 ## 21.09.16(목)
 - [AI.X, SKT 주최 컨퍼런스 2일차-끝](https://aeda.tistory.com/24)
 - [개데박세미나_성곤 KNN](https://github.com/jmsmg/TIL/blob/main/MachineLearning/SuperviesedLearning/KNN.md)
@@ -32,7 +38,7 @@
 - [개데박세미나_혜민 The Batch](https://github.com/tkasod2/TIL/blob/main/etc/interview.md)
 
 ## 21.09.09(목)
-- [개데박세미나_범상 MLDL 기초](https://github.com/tkasod2/TIL/blob/main/Theory/MLDL.md)
+- [개데박세미나_범상 MLDL 기초](https://github.com/tkasod2/TIL/blob/main/Theory/MLDL_%EA%B8%B0%EC%B4%88%EA%B0%9C%EB%85%90.md)
 - [개데박세미나_소연 Activation Function2](https://github.com/blackpearl-09/TIL/blob/main/Activation_Function_2.ipynb)
 - 줄글자소서 작성.
 
