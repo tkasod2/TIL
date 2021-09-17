@@ -173,7 +173,7 @@
         ![image](https://miro.medium.com/max/450/1*-LydhQEDyg-4yy5hGEj5wA.png)
 
         - 아래 그림처럼, $\theta$의 변화를 통해서, 가장 낮은 MSE를 찾는(그림상에서 접점을 찾는) 방식으로 parameter가 결정됨
-    <img src="weight_regularization.png" width="80%" height="80%"/>
+    <img src="./image/weight_regularization.png" width="80%" height="80%"/>
         - $*\lambda$ (Regularization Rate) : 스칼라값으로, 정규화 함수의 상대적 중요도
         
     - Advanced gradient descent algorithms
