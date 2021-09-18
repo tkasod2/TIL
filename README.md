@@ -1,4 +1,11 @@
 # Today I Learned(TIL)
+## 21.09.18(토)
+- 현직자 인터뷰
+- Haicontest Review blogging
+- Bayesian Optimizer 이해
+- RNN, Transformer 이해
+- [인터뷰준비](https://www.notion.so/Banksalad_interview-d67dc61110044f49a144562e7b318cd2)
+
 ## 21.09.17(금)
 - [개데박코드리뷰_성곤 주차수요 예측](https://github.com/jmsmg/TIL/blob/main/공모전/수상작/%5B장어%2C_Private%201위%2C%20점수%2098.76%5D%20Pycaret%20활용%20주차%20수요%20예측.ipynb)
 - [개데박세미나_범상 MLDL- Deep Learning 완료](https://github.com/tkasod2/TIL/blob/main/Theory/MLDL_%EA%B8%B0%EC%B4%88%EA%B0%9C%EB%85%90.md)
