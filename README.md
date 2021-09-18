@@ -1,7 +1,7 @@
 # Today I Learned(TIL)
 ## 21.09.18(토)
 - 현직자 인터뷰
-- Haicontest Review blogging
+- [Haicontest Review 블로깅](https://aeda.tistory.com/25)
 - Bayesian Optimizer 이해
 - RNN, Transformer 이해
 - [인터뷰준비](https://www.notion.so/Banksalad_interview-d67dc61110044f49a144562e7b318cd2)
