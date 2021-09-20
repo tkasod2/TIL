@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 21.09.20(월)
+- 현직자 인터뷰 - 회신받음. 정의 및 인터뷰 준비
+
 ## 21.09.19(일)
 - [ML,DL 기초이론 블로깅](https://aeda.tistory.com/26)
 - Bayesian Optimizer 이해
