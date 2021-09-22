@@ -1,5 +1,9 @@
 # Today I Learned(TIL)
-## 21.09.21(화))
+## 21.09.22(수)
+- [A/B test 세미나자료 작성중]()
+- [Data Pipeline구축 세미나 자료 작성중]()
+
+## 21.09.21(화)
 - [A/B test 세미나자료 작성중]()
 - [Data Pipeline구축 세미나 자료 작성중]()
 
