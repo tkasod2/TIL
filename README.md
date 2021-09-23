@@ -1,6 +1,7 @@
 # Today I Learned(TIL)
 ## 21.09.23(목)
 - [RNN기초](https://github.com/tkasod2/TIL/blob/main/Theory/RNN.pdf)
+- 이어서, LSTM 작성중
 
 ## 21.09.22(수)
 - [A/B test 세미나자료 작성중]()
