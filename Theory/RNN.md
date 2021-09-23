@@ -7,3 +7,5 @@
 
 
 ![image](./image/RNN4.png)
+
+- [BPTT](http://solarisailab.com/archives/1451)
