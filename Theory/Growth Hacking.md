@@ -8,7 +8,7 @@
 
 봐볼만한 사이트 목록
 - [블로그](https://spoqa.github.io/2012/05/15/ab-testing-basic.html)
-
+- [블로그2](https://statkclee.github.io/statistics/stat-ab-testing.html)
 
 ### # 1번 예시, web site 시간 a, b의 비교
 
