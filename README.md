@@ -1,6 +1,6 @@
 # Today I Learned(TIL)
 ## 21.09.25(토)
-- [A/B test 세미나자료 업로드](https://github.com/tkasod2/TIL/blob/main/Theory/AB_test.md)
+- [Growth_hacking (1)A/B test 세미나자료 업로드](https://github.com/tkasod2/TIL/blob/main/Theory/AB_test.md)
 
 ## 21.09.24(금)
 - [LSTM의 이해](https://github.com/tkasod2/TIL/blob/main/Theory/RNN(2)%20LSTM.pdf)
