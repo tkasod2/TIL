@@ -9,3 +9,7 @@
 ![image](./image/RNN4.png)
 
 - [BPTT](http://solarisailab.com/archives/1451)
+
+
+- why "tanh" activation function?
+    - Gradient Vanishing때문에, 미분값의 range가 가장 넓은(0~1) tanh를 RNN에서는 애용함
