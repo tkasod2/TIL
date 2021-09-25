@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 21.09.25(토)
+- [A/B test 세미나자료 업로드](https://github.com/tkasod2/TIL/blob/main/Theory/AB_test.md)
+
 ## 21.09.24(금)
 - [LSTM의 이해](https://github.com/tkasod2/TIL/blob/main/Theory/RNN(2)%20LSTM.pdf)
 
@@ -7,11 +10,11 @@
 - 이어서, LSTM 작성중
 
 ## 21.09.22(수)
-- [A/B test 세미나자료 작성중](https://github.com/tkasod2/TIL/blob/main/Theory/AB_test.md)
+- A/B test 세미나자료 작성중
 - [Data Pipeline구축 세미나 자료 작성중]()
 
 ## 21.09.21(화)
-- [A/B test 세미나자료 작성중](https://github.com/tkasod2/TIL/blob/main/Theory/AB_test.md)
+- A/B test 세미나자료 작성중
 - [Data Pipeline구축 세미나 자료 작성중]()
 
 ## 21.09.20(월)
