@@ -1,6 +1,7 @@
 # Today I Learned(TIL)
 ## 21.09.26(일)
 - [RNN(3) Seq to Seq]()
+- 국민카드 자소서 작성 완료해야됨
 - [면접준비](https://www.notion.so/Banksalad_interview-d67dc61110044f49a144562e7b318cd2)
 
 
