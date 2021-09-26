@@ -1,12 +1,17 @@
 # Today I Learned(TIL)
+## 21.09.26(일)
+- [RNN(3) Seq to Seq]()
+- [면접준비](https://www.notion.so/Banksalad_interview-d67dc61110044f49a144562e7b318cd2)
+
+
 ## 21.09.25(토)
 - [Growth_hacking (1)A/B test 세미나자료 업로드](https://github.com/tkasod2/TIL/blob/main/Theory/AB_test.md)
 
 ## 21.09.24(금)
-- [LSTM의 이해](https://github.com/tkasod2/TIL/blob/main/Theory/RNN(2)%20LSTM.pdf)
+- [RNN(2) LSTM](https://github.com/tkasod2/TIL/blob/main/Theory/RNN(2)%20LSTM.pdf)
 
 ## 21.09.23(목)
-- [RNN기초](https://github.com/tkasod2/TIL/blob/main/Theory/RNN(1)%20Basic.pdf)
+- [RNN(1) Basic](https://github.com/tkasod2/TIL/blob/main/Theory/RNN(1)%20Basic.pdf)
 - 이어서, LSTM 작성중
 
 ## 21.09.22(수)
