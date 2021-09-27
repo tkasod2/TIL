@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 21.09.28(화)
+- 뱅크샐러드 사전과제수행 (수요일 목표)
+
 ## 21.09.27(월)
 - [코드리뷰](https://github.com/tkasod2/TIL/blob/main/Mid_prj/6팀_mid_네이버영화_리뷰_감성분석_이게리얼최종임-cleaned.ipynb)
 - 국민카드 자소서 제출 (완료)
