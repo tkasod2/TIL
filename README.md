@@ -1,6 +1,6 @@
 # Today I Learned(TIL)
 ## 21.10.05(화)
-- 뱅크샐러드 면접 준비(https://www.notion.so/Banksalad_interview-d67dc61110044f49a144562e7b318cd2)
+- [뱅크샐러드 면접 준비](https://www.notion.so/Banksalad_interview-d67dc61110044f49a144562e7b318cd2)
 
 ## 21.10.04(월)
 - 뱅크샐러드 사전과제 최종 마무리 및 제출(완료)
