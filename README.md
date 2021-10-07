@@ -1,4 +1,8 @@
 # Today I Learned(TIL)
+## 21.10.07(목)
+- 통계기초
+
+
 ## 21.10.06(수)
 - [뱅크샐러드 면접 준비](https://www.notion.so/Banksalad_interview-d67dc61110044f49a144562e7b318cd2)
 
