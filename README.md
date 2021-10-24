@@ -1,6 +1,7 @@
 # Today I Learned(TIL)
 ## 21.10.24(일)
 - 서류작성
+- [Data분석 콘텐츠 블로깅 시작 - 방향성](https://aeda.tistory.com/28)
 
 ## 21.10.23(토)
 - 서류작성
