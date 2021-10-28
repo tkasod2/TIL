@@ -1,5 +1,14 @@
 # Data 분석의 목적
 - 데이터에서 찾아낸 인사이트로 제품을 지속적으로 개선해나가는것
+- Lean 분석 프로세스 : 비용, 시간의 최적화를 위한 분석 프로세스
+    - Idea
+    - Build(개발)
+    - Product
+    - Measure
+    - Data
+    - Learn
+    - Idea 
+    - ...
 
 # Growth Hacking
 - 정의
