@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 21.10.29(금)
+- Data분석 블로깅 실습 정리
+
 ## 21.10.28(목)
 - [Data분석 블로깅 - Growth Hacking Overview](https://aeda.tistory.com/29)
 
