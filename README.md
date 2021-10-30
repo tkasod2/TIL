@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 21.10.30(토)
+- [SQL - DATETIME,WITH RECURSIVE](https://aeda.tistory.com/30)
+
 ## 21.10.29(금)
 - Data분석 블로깅 실습 정리
 
