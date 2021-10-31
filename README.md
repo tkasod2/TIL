@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 21.10.31(일)
+- 프로그래머스 SQL 마무리
+
 ## 21.10.30(토)
 - [SQL - DATETIME,WITH RECURSIVE](https://aeda.tistory.com/30)
 
