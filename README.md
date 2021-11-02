@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 21.11.02(화)
+- AARRR 정리
+
 ## 21.11.01(월)
 - [Data분석 블로깅 - PMF](https://aeda.tistory.com/31)
 
