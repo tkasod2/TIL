@@ -1,9 +1,9 @@
 # Today I Learned(TIL)
 ## 21.11.04(목)
-- [Data분석 블로깅 - AARRR(2)](https://aeda.tistory.com/33)
+- [Data분석 블로깅 - AARRR(2) Activation](https://aeda.tistory.com/33)
 
 ## 21.11.03(수)
-- [Data분석 블로깅 - AARRR(1)](https://aeda.tistory.com/32)
+- [Data분석 블로깅 - AARRR(1) Acquisition](https://aeda.tistory.com/32)
 
 ## 21.11.02(화)
 - AARRR 정리
