@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 21.11.03(수)
+- [Data분석 블로깅 - AARRR(1)](https://aeda.tistory.com/32)
+
 ## 21.11.02(화)
 - AARRR 정리
 
