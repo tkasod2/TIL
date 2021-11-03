@@ -89,3 +89,44 @@
 - 채널(ex. 페이스북, 인스타그램, ...)의 최적화와 확장이 필요함
 - 정확한 트래킹
 - 어트리뷰션툴에 대한 다양한 활용
+
+## 2. Activation : 사용자가 서비스/제품의 핵심가치를 경험했는가
+- 사용자 경험의 Funnel에서 각 단계별 전환율(ex.이탈율)을 측정/분석
+(Download에서 Onboarding의 끝까지)
+- Funnel 분석의 요소  
+    1) 핵심가치에 대한 Stage의 정의
+        - 사용자의 입장과 회사의 입장을 일치시키는 작업 필요(UX기반)
+    2) Stage별 전환율을 어떤 기준으로 측정하는지
+        - 결제패턴 예시
+            - 하나의 제품만을 여러번 보고 결제가 1회 이뤄진 경우
+            - 여러 제품을 보고 그 중 일부 결제가 이루어진 경우
+            - Conversion Rate를 과연 뭘로해야할까?
+                - User기준?
+                - View기준?
+                - Product기준?
+                - **답이 없는 문제임!!**
+            
+    3) Cohort별로 보는지
+        - Funnel마다의 전환율을 확인하기 위해서, User/Browser/Mobile/세션/event 등을 기준으로 Cohort를 만들어서 분석
+            - ex. Mobile vs PC 고객을 따로 분석
+            - Event(action)와 시점을 기준으로 cohort를 만드는 경우가 많음
+- Funnel 분석의 의의
+    - Stage별 Conversion의 확인
+    - Conversion과 유관한 선행지표를 발굴할 수 있음
+- 이탈 원인 분석
+    - **인터뷰**, 설문, 데이터분석
+    - Raw Data를 기반으로 Conversion User와 그렇지 않은 User의 분석을 통해 역순으로 확인 가능
+- Funnel Summary
+    - Conversion을 통해 Global Optimization이 중요
+    - Stage를 명확하게 정의해야함
+        - 불필요한 Stage를 통해 지표를 발굴했을때 과연 의의가 있을까?
+    - Home Try On : Funnel을 역순으로 진행한 Service들이 존재
+        - ex> Warby Parker : 안경을 배송하고, 마음에 들면 결제처리 아니면 반송
+    - Cohort별 차이가 발생하는 원인을 파악해야함
+- Funnel 개선
+    - 개인화 : ML, DL이나 Rule 기반 추천 시스템
+    - UI/UX : UI의 Redesign을 통해 개선될 수 있는지 검증(ex. AB Test)
+    - **사용자 유도**
+        - 다음 Funnel로 이동할 수 있도록 유도 하는것
+            - ex) 타겟팅을 기반으로한 푸시, 이메일, 인앱 메시지 등등
+
