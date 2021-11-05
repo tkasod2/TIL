@@ -166,6 +166,7 @@
             - 하지만, DAU/MAU측정이 서비스별로 차이가있음.
 - Retention Chart
     ![image](https://baremetrics-wordpress.imgix.net/20200420140137/behavioral-cohort-table.png)
+    21분까지..
     - 
     - Cohort별로 retention이 어떻게 변해가는지 확인
 
