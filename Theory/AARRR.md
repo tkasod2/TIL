@@ -130,3 +130,42 @@
         - 다음 Funnel로 이동할 수 있도록 유도 하는것
             - ex) 타겟팅을 기반으로한 푸시, 이메일, 인앱 메시지 등등
 
+## 3. Retention : Activation 과정에서 A HA Moment를 꾸준히 경험하도록 하는것
+- 일반적으로 재방문을 기반으로 측정
+    - 접속을 기준으로 꼭 해야하는지에 대해서는 고민해볼필요 있음
+- 개선효과
+    - 비용대비 효과가 큼
+
+- Retention 측정 방법
+    - Classic Retention(= Day-N Re~)
+        - Day N에 서비스를 사용했는지에 대한 여부만 지표로함
+        - N 일이 지나고 재방문을 했는가에 대한 Retention
+        - (+) 계산과 설명이 쉬움
+            - 짧은 주기로 반복적 사용이 중요한 서비스에 적합
+        - (-) Noise에 취약
+            - Noise를 줄이기 위해서, N의 값을 여러개로 두고, DayN Retention의 평균값을 활용
+
+    - Range Retention
+        - 특정 기간에 재방문한 user의 비율
+        - (+) 설명하기 쉬움. Day-to-Day Noise에 자유로움
+            - 가계부 어플리케이션처럼 특정 간격으로 주기적 사용을 하는 부분에 활용 가능
+        - (-) Range가 길어질수록 over-estimate됨
+    - Rolling Retention(이탈에 초점을 맞춤)
+        - 남은 user를 기준으로 계산        
+        '''
+
+            N day뒤 서비스 사용 기록 있는 사람의 수 / 0일에 처음 서비스를 사용한 사람의 수
+        '''
+        - (+) 계산이 쉬움(첫사용, 마지막 사용 날만 있으면 됨)
+        - (-) 이상치,Noise에 굉장히 취약
+            - 서비스 사용이 많지 않을 때 활용
+            (ex. 여행어플)
+    - 약식
+        - Engagement=(DAU/MAU)
+            - 얼마나 Engage되었는지의 지표로 사용
+            - 하지만, DAU/MAU측정이 서비스별로 차이가있음.
+- Retention Chart
+    ![image](https://baremetrics-wordpress.imgix.net/20200420140137/behavioral-cohort-table.png)
+    - 
+    - Cohort별로 retention이 어떻게 변해가는지 확인
+
