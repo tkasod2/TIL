@@ -1,5 +1,5 @@
 # Today I Learned(TIL)
-## 21.11.06(토))
+## 21.11.06(토)
 - [Data분석 블로깅 - AARRR(3) Retention]()
 
 ## 21.11.05(금)
