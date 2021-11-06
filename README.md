@@ -1,4 +1,10 @@
 # Today I Learned(TIL)
+## 21.11.06(토))
+- [Data분석 블로깅 - AARRR(3) Retention]()
+
+## 21.11.05(금)
+- Data분석 블로깅 - AARRR(3) Retention 작성
+
 ## 21.11.04(목)
 - [Data분석 블로깅 - AARRR(2) Activation](https://aeda.tistory.com/33)
 
