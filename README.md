@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 21.11.07(일)
+- MLT 서류 작성
+
 ## 21.11.06(토)
 - [Data분석 블로깅 - AARRR(3) Retention]()
 
