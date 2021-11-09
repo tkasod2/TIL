@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 21.11.09(화)
+- 이력서/Notion/포트폴리오 수정
+
 ## 21.11.08(월)
 - [ML Basic Code 작성 - Regression](https://github.com/tkasod2/TIL/blob/main/Basic%20code/ML기초_따릉이%20수요예측.ipynb)
 
