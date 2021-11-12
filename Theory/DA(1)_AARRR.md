@@ -232,7 +232,21 @@
     - 스토어별 매출의 합계
     - 회원별 매출의 합계
     - ...
+    - in 구독 서비스,
+        - MRR(Monthly Recurring Revenue)
+            - Base MRR(전월 MRR) + New MRR - Churn MRR + upgrade/downgrade MRR
+- 핵심사용자와 고래
+    - 고래 : 많은 금액을 발생시켜주는 고객
+    - 서비스의 영향력이 크기때문에, Operating 측면과 Revenue측면에서 가장 우선적으로 고려해야함
+- RFM 분석
+    - 기준을 정해서 점수로 평가
+    - Recency : 얼마나 최근에 결제했는지
+    - Frequency : 얼마나 자주 결제했는지
+    - Monetary : 얼마나 많은 금액을 결제했는지
+    - 점수의 Total 점수로 Group을 나눠서 User를 Segement
+        - User별로 다른 프로모션을 진행
     
+
 
 
 
