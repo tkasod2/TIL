@@ -1,6 +1,6 @@
 # Today I Learned(TIL)
 ## 21.11.11(목)
-- [Data분석 블로깅 - AARRR(4) Referral]()
+- [Data분석 블로깅 - AARRR(4) Revenue]()
 
 ## 21.11.10(수)
 - 이력서/Notion/포트폴리오 수정
