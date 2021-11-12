@@ -167,5 +167,74 @@
 - Retention Chart
     ![image](https://baremetrics-wordpress.imgix.net/20200420140137/behavioral-cohort-table.png)
     21분까지..
-    - Cohort별로 retention이 어떻게 변해가는지 확인
+    - Cohort별로 retention이 어떻게 변해가는지 확인하는 차트
+        - ex. 일별(cohort)로 기간이 지날수록 어떤 retention을 보이는지 확인
+    - 단순 표 뿐만아니라 차트로 표현하는것도 좋은 방법
+    - Activation * Retention * Revenue로 엮어서 생각
+- Retention의 기준
+    - 접속(log-in)이 유일한 기준인지?
+        - 클릭이나 여러 대체 지수를 활용
+- Retention 개선
+    - 시점을 기준으로 접근
+        - 초기 user retention 제어
+            - Activation 프로세스 점검
+            - 새로운 UX 개선
+        - 유지
+            - 고객과의 정기적 커뮤니케이션 플랜
+            - 휴면 고객 복귀 이벤트 등의 액션
+    - 유의점 
+        - 지표에 매몰되지 말아야함
+            - 푸시/이메일/SMS자주 보내기 -> 일시적 Retention의 향상은 있겠지만 피로관리의 사이드이펙트가 존재
+            - 유저 커뮤니케이션 채널의 일원화
+        - Key Feature 기준 모니터링
+            - 접속이라는 단순한 기준이 아닌 핵심기능 사용 이력, 결제, 방문횟수 등 **핵심기준**을 기준으로 모니터링
+            - 당장의 User의 복귀를 바랄것이 아니라, 장기적 관점에서 들어올 이유를 만드는 방법도 고려
+        - 축적된 가치
+            - 축적 데이터가 많은 경우 당연히 리텐션이 높음
+            - 파이가 작은입장이면 축적 가치를 이동할 수 있도록
+        - 습관
+            - 유저가 app을 습관적으로 들어올 수 있도록 고민
+        - etc
+            - 장기적 Retention의 중요성
+                - 하지만 현 status를 측정하고, 새로운 실험과 효과확인이 어려움
+            - 기간에 따라 유동적으로 변해감
+                - 시기에 따라 코호트 분석을 해야함
+                - 외부요인(ex. 경쟁사 출현 등)
+            - 카테고리별 권장되는 retention의 수준이 다름
+                - 여행, 쇼핑, 가계부 등등 카테고리별로 차이가 있음
+                - 피로관리가 중요함
+            - **AARRR에서 Activation과 함께 가장 우선적으로 개선해야하는 지수**
+
+
+## 4. Revenue : BM의 정의와 제대로 작동하는지에 대한 지표. 매출
+- 전사적인 관점에서 업무를 해나가야할 필요가 있음
+- Revenue 관련 지표
+    - ARPU (Average Revenue Per User) : Revenue/User
+        - 전반적 상황을 보는데 유용함
+        - 하지만, User와 Revenue의 구분이 어려움
+        - 일반적으로 Monthly기준으로 정의
+            - ex. MAU, ARPDAU,...
+    - ARPPU (Average Revenue Per Paying User) : Revenue/Paying User
+    - ASP (Average Selling Price) : Revenue/ 판매횟수
+    - Lifetime Value(유저생애가치) : User의 진입~ 이탈까지 전체활동기간동안 누적 발생되는 기대수익
+        - CLV = (M-c)/(1-r+i) - AC
+            - M: 1인당 평균 매출// c: 1인당 평균 비용 // r : 고객 유지 비율 // i: 할인율 // AC : 고객 획득비용
+        - Lifetime Value = ARPU / Churn
+            - Churn : 고객 이탈비율
+        - 하지만, 현실에서 이러한 계산을하는 경우는 거의 없음
+        - 대안?
+            - LTR (Lifetime Revenue)의 활용
+                - 비용의 계산이 어려우니 매출에 계산만을 지수로 활용
+                - 고객의 수는 이탈하는 여부를 판정하지않고 쭉 같은 숫자를 유지
+                - CAC, LTR, ROAS를 비교하면서 생각
+- Revenue의 형태
+    - 아이템별 매출의 합계
+    - 스토어별 매출의 합계
+    - 회원별 매출의 합계
+    - ...
+    
+
+
+
+
 
