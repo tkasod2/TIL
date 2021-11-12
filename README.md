@@ -1,6 +1,9 @@
 # Today I Learned(TIL)
+## 21.11.12(금)
+- [Data분석 블로깅 - AARRR(5) Referral](https://aeda.tistory.com/36)
+
 ## 21.11.11(목)
-- [Data분석 블로깅 - AARRR(4) Revenue]()
+- [Data분석 블로깅 - AARRR(4) Revenue](https://aeda.tistory.com/35)
 
 ## 21.11.10(수)
 - 이력서/Notion/포트폴리오 수정
