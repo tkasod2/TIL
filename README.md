@@ -15,7 +15,7 @@
 - MLT 서류 작성
 
 ## 21.11.06(토)
-- [Data분석 블로깅 - AARRR(3) Retention]()
+- [Data분석 블로깅 - AARRR(3) Retention](https://aeda.tistory.com/34)
 
 ## 21.11.05(금)
 - Data분석 블로깅 - AARRR(3) Retention 작성
