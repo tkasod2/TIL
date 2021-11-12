@@ -247,8 +247,27 @@
         - User별로 다른 프로모션을 진행
     
 
+## 5. Referral : Organic 유입의 한 종류. 입소문을 통한 user 확대
+- 주요 지표
+    - Viral Coefficeint
+        - User * Invitation rate(초대에 참여한 사람의비율) * Invitation sent per user(초대 시 몇명씩 초대?) * conversion rate(사용 전환율) / User
 
+    - 고려사항
+        - 주기에 대한 고려
+        - Saturate 수준 고려
+            - 초대받을 수 있는 사람이 한정적이므로 타겟층에 대한 고려가 필요
+        - 초대받은사람이 핵심가치를 경험했는지, ... 
+    - Viral Coefficient의 기준점은 1
 
-
-
-
+    ![Image](https://upviral.com/wp-content/uploads/2015/08/viral-coefficient-1.png)
+    - 1을 초과하면 그때부터 엄청난 가속이 됨
+- Referral 고려사항
+    1) 제품의 퀄리티
+    - Viral loop는 좋은 제품이 선행조건
+    2) Viral channel이 잘 작동하는가 Growth의 필수조건인지에 대해서는 고려해볼 필요가 있음
+    3) Viral할 수 있도록 맥락의 설계
+    - 추천을 할 이유를 만들어줘야함
+    4) 초대하는사람과 초대 받는사람의 경험을 나눠서 각각 최적화해야함
+    5) NUX : New User Experience
+    - 가입과 온보딩 프로세스의 최적화
+        - 특히, 단 한 번 겪는 경험이므로 가장 잘 설계해야함
