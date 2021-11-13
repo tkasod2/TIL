@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 21.11.13(토)
+- [AARRR 실습자료 정리]()
+
 ## 21.11.12(금)
 - [Data분석 블로깅 - AARRR(5) Referral](https://aeda.tistory.com/36)
 
