@@ -1,6 +1,10 @@
 # Today I Learned(TIL)
+## 21.11.30(화)
+- [빅분기 주요 함수 정리](https://github.com/tkasod2/TIL/blob/main/%EB%B9%85%EB%B6%84%EA%B8%B0_%EC%A4%80%EB%B9%84%EC%9A%A9_%ED%9D%90%EB%A6%84%ED%8C%8C%EC%9D%BC.ipynb)
+- KB손해보험 1차 인터뷰 준비
+
 ## 21.11.29(월)
-- 과제 제출
+- [제로베이스 데이터분석 과제 제출](https://github.com/tkasod2/TIL/blob/main/%EB%A5%98%EB%B2%94%EC%83%81__1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6_%EC%88%98%EC%A0%95(%EC%A0%9C%EC%B6%9C%EC%9A%A9).ipynb)
 - 빅분기 준비
 
 ## 21.11.28(일)
