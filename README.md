@@ -1,4 +1,8 @@
 # Today I Learned(TIL)
+## 21.12.01(수)
+- [빅분기 주요 함수 정리(수정)](https://github.com/tkasod2/TIL/blob/main/%EB%B9%85%EB%B6%84%EA%B8%B0_%EC%A4%80%EB%B9%84%EC%9A%A9_%ED%9D%90%EB%A6%84%ED%8C%8C%EC%9D%BC.ipynb)
+- KB손해보험 1차 인터뷰 준비(기업분석)
+
 ## 21.11.30(화)
 - [빅분기 주요 함수 정리](https://github.com/tkasod2/TIL/blob/main/%EB%B9%85%EB%B6%84%EA%B8%B0_%EC%A4%80%EB%B9%84%EC%9A%A9_%ED%9D%90%EB%A6%84%ED%8C%8C%EC%9D%BC.ipynb)
 - KB손해보험 1차 인터뷰 준비
