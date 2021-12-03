@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 21.12.03(금)
+- [빅분기 추가 정리(mlp, version issue 처리)](https://github.com/tkasod2/TIL/blob/main/빅분기_준비용_흐름파일2.ipynb)
+
 ## 21.12.02(목)
 - [빅분기 최종 정리(완료)](https://github.com/tkasod2/TIL/blob/main/%EB%B9%85%EB%B6%84%EA%B8%B0_%EC%A4%80%EB%B9%84%EC%9A%A9_%ED%9D%90%EB%A6%84%ED%8C%8C%EC%9D%BC.ipynb)
 - 제로베이스 데이터분석 과제 완료(질문사항 확인)
