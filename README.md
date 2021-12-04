@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 21.12.04(토)
+- [빅분기 족보코딩 블로깅](https://aeda.tistory.com/37)
+
 ## 21.12.03(금)
 - [빅분기 추가 정리(mlp, version issue 처리)](https://github.com/tkasod2/TIL/blob/main/빅분기_준비용_흐름파일2.ipynb)
 
