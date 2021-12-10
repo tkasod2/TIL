@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 21.12.10(금)
+- 당근마켓 서류작성
+
 ## 21.12.09(목)
 - [제로베이스 데이터분석 2주차 과제 정리_MAU 강의 다시 보기](https://github.com/tkasod2/TIL/blob/main/류범상__2주차_과제_수정.ipynb)
 
