@@ -1,4 +1,8 @@
 # Today I Learned(TIL)
+## 21.12.12(일)
+- 당근마켓 서류작성 마무리
+- 제로베이스 데이터분석 3주차 과제
+
 ## 21.12.11(토)
 - [제로베이스 데이터분석 실전](https://github.com/tkasod2/TIL/blob/main/zerobase/%EC%8B%A4%EC%A0%84_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_1_%EC%9C%A0%EC%A0%80_%ED%96%89%EB%8F%99_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C_%EC%84%9C%EB%B9%84%EC%8A%A4_%EA%B1%B4%EA%B0%95%EC%84%B1_%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0.ipynb)
 - 당근마켓 서류작성
