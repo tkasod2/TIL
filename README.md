@@ -1,21 +1,21 @@
 # Today I Learned(TIL)
 ## 21.12.13(월)
-- 제로베이스 데이터분석 3주차 과제 제출
-- 강의 1강부터 다시 수강
+- [제로베이스 데이터분석 3주차 과제 제출]()
+- 강의 복습
 
 ## 21.12.12(일)
 - 당근마켓 서류 제출(완료)
 - 제로베이스 데이터분석 3주차 과제
 
 ## 21.12.11(토)
-- [제로베이스 데이터분석 실전](https://github.com/tkasod2/TIL/blob/main/zerobase/%EC%8B%A4%EC%A0%84_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_1_%EC%9C%A0%EC%A0%80_%ED%96%89%EB%8F%99_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C_%EC%84%9C%EB%B9%84%EC%8A%A4_%EA%B1%B4%EA%B0%95%EC%84%B1_%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0.ipynb)
+- [제로베이스 데이터분석 실전1](https://github.com/tkasod2/TIL/blob/main/zerobase/study/%EC%8B%A4%EC%A0%84_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_1_%EC%9C%A0%EC%A0%80_%ED%96%89%EB%8F%99_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C_%EC%84%9C%EB%B9%84%EC%8A%A4_%EA%B1%B4%EA%B0%95%EC%84%B1_%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0.ipynb)
 - 당근마켓 서류작성
 
 ## 21.12.10(금)
 - 당근마켓 서류작성
 
 ## 21.12.09(목)
-- [제로베이스 데이터분석 2주차 과제 정리_MAU 강의 다시 보기](https://github.com/tkasod2/TIL/blob/main/류범상__2주차_과제_수정.ipynb)
+- [제로베이스 데이터분석 2주차 과제 정리_MAU 강의 다시 보기](https://github.com/tkasod2/TIL/blob/main/zerobase/homework/류범상__2주차_과제_수정.ipynb)
 
 ## 21.12.08(수)
 - 면접 복기
@@ -35,22 +35,22 @@
 - [빅분기 족보코딩 블로깅](https://aeda.tistory.com/37)
 
 ## 21.12.03(금)
-- [빅분기 추가 정리(mlp, version issue 처리)](https://github.com/tkasod2/TIL/blob/main/빅분기_준비용_흐름파일2.ipynb)
+- [빅분기 추가 정리(mlp, version issue 처리)](https://github.com/tkasod2/TIL/blob/main/빅데이터분석기사/빅분기_준비용_흐름파일2.ipynb)
 
 ## 21.12.02(목)
-- [빅분기 최종 정리(완료)](https://github.com/tkasod2/TIL/blob/main/%EB%B9%85%EB%B6%84%EA%B8%B0_%EC%A4%80%EB%B9%84%EC%9A%A9_%ED%9D%90%EB%A6%84%ED%8C%8C%EC%9D%BC.ipynb)
+- [빅분기 최종 정리(완료)](https://github.com/tkasod2/TIL/blob/main/빅데이터분석기사/%EB%B9%85%EB%B6%84%EA%B8%B0_%EC%A4%80%EB%B9%84%EC%9A%A9_%ED%9D%90%EB%A6%84%ED%8C%8C%EC%9D%BC.ipynb)
 - 제로베이스 데이터분석 2주차 과제(질문사항 확인)
 
 ## 21.12.01(수)
-- [빅분기 주요 함수 정리(수정)](https://github.com/tkasod2/TIL/blob/main/%EB%B9%85%EB%B6%84%EA%B8%B0_%EC%A4%80%EB%B9%84%EC%9A%A9_%ED%9D%90%EB%A6%84%ED%8C%8C%EC%9D%BC.ipynb)
+- [빅분기 주요 함수 정리(수정)](https://github.com/tkasod2/TIL/blob/main/빅데이터분석기사/%EB%B9%85%EB%B6%84%EA%B8%B0_%EC%A4%80%EB%B9%84%EC%9A%A9_%ED%9D%90%EB%A6%84%ED%8C%8C%EC%9D%BC.ipynb)
 - KB손해보험 1차 인터뷰 준비(기업분석)
 
 ## 21.11.30(화)
-- [빅분기 주요 함수 정리](https://github.com/tkasod2/TIL/blob/main/%EB%B9%85%EB%B6%84%EA%B8%B0_%EC%A4%80%EB%B9%84%EC%9A%A9_%ED%9D%90%EB%A6%84%ED%8C%8C%EC%9D%BC.ipynb)
+- [빅분기 주요 함수 정리](https://github.com/tkasod2/TIL/blob/main/빅데이터분석기사/%EB%B9%85%EB%B6%84%EA%B8%B0_%EC%A4%80%EB%B9%84%EC%9A%A9_%ED%9D%90%EB%A6%84%ED%8C%8C%EC%9D%BC.ipynb)
 - KB손해보험 1차 인터뷰 준비
 
 ## 21.11.29(월)
-- [제로베이스 데이터분석 과제 제출](https://github.com/tkasod2/TIL/blob/main/%EB%A5%98%EB%B2%94%EC%83%81__1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6_%EC%88%98%EC%A0%95(%EC%A0%9C%EC%B6%9C%EC%9A%A9).ipynb)
+- [제로베이스 데이터분석 1주차 과제 제출](https://github.com/tkasod2/TIL/blob/main/zerobase/homework/%EB%A5%98%EB%B2%94%EC%83%81__1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6_%EC%88%98%EC%A0%95(%EC%A0%9C%EC%B6%9C%EC%9A%A9).ipynb)
 - 빅분기 준비
 
 ## 21.11.28(일)
