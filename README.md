@@ -1,4 +1,8 @@
 # Today I Learned(TIL)
+## 21.12.14(화)
+- 제로베이스 데이터분석 1주차 강의 정리
+- 2주차 복습 시작
+
 ## 21.12.13(월)
 - [제로베이스 데이터분석 3주차 과제 제출](https://github.com/tkasod2/TIL/blob/main/zerobase/homework/류범상_3주차_과제.ipynb)
 - 강의 복습
