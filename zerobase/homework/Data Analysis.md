@@ -122,7 +122,11 @@
             - $S_i$ $=$ $b_i-a_i \over max(ai,bi)$
             - 컨셉에 따라, $a_i$가 작을수록, $b_i$가 클수록 좋은데 실루엣 계수를 살펴봤을떄, 1에 가까울수록 고평가를 받게 될 것이고(max값은 1을 넘지 못함), -1에 가까울수록 저평가를 받게 될 것이다.
    
-
+    - Elbow Method
+        - 데이터를 몇개의 그룹으로 군집화 해야할까?
+        - WSS(군집 내 분산)이 작을수록 좋음
+        - WSS가 유의미하게 작아지지 않을떄 K를 늘리는것을 stop
+        - ![image](https://heung-bae-lee.github.io/image/how_to_determine_optimal_k_in_k_means_clustering_01.png)
 
 
 
