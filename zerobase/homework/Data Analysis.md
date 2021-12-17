@@ -72,7 +72,55 @@
             - 고객, 생애, 가치를 각각 어떻게 정의할지 고민 필요(기업별 차이가 있음)
                 - 생애 : GA기준 90일
                 - 가치 : Revenue, Profit 등등
-                
+
+
+- 유저 군집 분석(Clustering)
+    - Clustering? : 비슷한 특성을 가진 여러개의 그룹으로 나누는 비지도 학습의 일종
+        - 정답이 있다면 분류
+    - Intra-cluster는 가깝게, Inter-cluster는 멀게 그룹을 설정하는것이 이상적
+    - 종류
+        - Partition-base Clustering
+            - K-means(대표적 방법)
+                1) k값 설정
+                2) Random으로 k개의 Centroid 설정
+                3) 데이터를 돌면서 어디랑 가장 가까운지(Euclidean Distance씀)를 기반으로 그룹에 데이터 할당
+                4) 그룹별로 다시 평균점을 Centroid(중심점)을 설정
+                5) 3~4 반복 후, 그룹이동이 발생하지 않으면 stop
+            - 그 외
+                - K-Medois, K-models,...
+        - Hierachical based Clustering(agglomerative clustering)
+            - 거리가 가까운 군집 두개를 선택하여 하나로 합치면서 군집 갯수를 줄여가는 방법
+            - 토너먼트식의 그래프(msno 그래프 떠올리면 편함)
+            - 거리 계산 법
+                - Centorid Distance
+                    - 군집 centroid 사이의 거리를 사용
+                    - 일반적으로 모든 클러스터링에서 활용함
+                - Median Distance
+                    - only for , Hierachical base Clustering
+                    - 군집 s와 t로 만들어진 군집 u가 있을 때, s와 t의 centroid 평균을 활용
+        - Density based Clustering
+            - 데이터 밀도를 기반으로하는 클러스터링 기법
+            - DBSCAN Clustering (대표적 방법)
+                - Hyper parameter 설정
+                    - a : 최소 거리 (A 그룹으로 묶기위한 기준)
+                    - b : 최소 데이터 갯수 (그룹으로 인정받기 위한 최소한의 데이터 수;; 밀집지역 정의 목적)
+                - a안에 있는 데이터는 이웃으로 정의
+                - a 안에 b개 이상 데이터가 있으면 해당 데이터를 core로 정의
+                - core 데이터는 하나의 클러스터를 형성하고, core와의 거리가 a 안에 있으면 클러스터로 분류
+            - vs K-means
+                - K-means는 중심점 기준으로 그룹형성하기 떄문에, 원의 형태로 군집이 형성
+                - 반면, DBSCAN은 불특정한 모양으로 형성됨
+    - 평가
+        - Label이 없기 떄문에 accuracy등을 평가할 수 없다.
+        - Silhoulette Coefficient ; 실루엣 계수
+            - 컨셉 **Intra-cluster는 가깝게, Inter-cluster는 멀게**
+            - $a_i$ : i와 같은 군집에 속한 원소들간의 평균 거리(intra-distance)
+            - $b_i$ : i와 다른 군집 중 가장 가까운 군집까지의 평균 거리
+            - $S_i$ $=$ $b_i-a_i \over max(ai,bi)$
+            - 컨셉에 따라, $a_i$가 작을수록, $b_i$가 클수록 좋은데 실루엣 계수를 살펴봤을떄, 1에 가까울수록 고평가를 받게 될 것이고(max값은 1을 넘지 못함), -1에 가까울수록 저평가를 받게 될 것이다.
+   
+
+
 
 
 
