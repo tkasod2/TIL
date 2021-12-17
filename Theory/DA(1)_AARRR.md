@@ -217,7 +217,7 @@
     - ARPPU (Average Revenue Per Paying User) : Revenue/Paying User
     - ASP (Average Selling Price) : Revenue/ 판매횟수
     - Lifetime Value(유저생애가치) : User의 진입~ 이탈까지 전체활동기간동안 누적 발생되는 기대수익
-        - CLV = (M-c)/(1-r+i) - AC
+        - $CLV =$ $ (M-c)\over(1-r+i)$ $ - AC$
             - M: 1인당 평균 매출// c: 1인당 평균 비용 // r : 고객 유지 비율 // i: 할인율 // AC : 고객 획득비용
         - Lifetime Value = ARPU / Churn
             - Churn : 고객 이탈비율
