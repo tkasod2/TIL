@@ -128,7 +128,7 @@
         - WSS가 유의미하게 작아지지 않을떄 K를 늘리는것을 stop
         - ![image](https://heung-bae-lee.github.io/image/how_to_determine_optimal_k_in_k_means_clustering_01.png)
 
-- 마케팅
+- 고객 유입 채널 분석
     - 마케팅이란??
         - 소비자의 충족되지 못한 욕구를 발견
         - 회사 서비스/제품과 연결
@@ -159,6 +159,34 @@
                 - 회사가 원하는 행동을 했다면 "전환"이라고 한다.
                     - 보통은 구매로 이어지는 전환을 일컫는다.
                         - ex. 앱 설치, 구매 행위, ...
+        - 기여도 분석
+            - 도메인 기반 기여도 분석
+                - Last Interaction Attribution Model
+                    - 마지막 접한 채널의 기여도를 100%로 본다. (GA기준)
+                - First Interaction Attribution Model
+                    - 첫 번째로 접한 채널의 기여도를 100%로 본다.
+                - Linear Interaction Attribution Model
+                    - 모든 채널의 기여도를 동일하게 본다.
+                    - 하나의 캠페인에 여러번 impression 되었어도, drop_duplicates 처리한다.
+            - 통계적 기법
+                - Markov chain
+                    - X1, X2, X3 .. 사건의 Sequence에서, 다른 state로 이동하는 확률은 과거 전부가 아니라 현재의 사건에서만 영향을 받음
+                    - 이미 과거 관측값이 더 앞선 과거의 영향을 받았으니,
+                    - 직전 관측값만 신경쓴다. (**memoryless**)
+                    - 전이 확률 행렬 (**Transition Probability**)
+                    ![image](https://i.ytimg.com/vi/IYaOMor9qvE/maxresdefault.jpg)
+                    - removal effect (제거효과)
+                        - 전환에 대한 기여도를 계산하는 방법
+                        - 예를들어, email channel의 기여도를 구한다고 치자
+                        - e-mail 채널이 conversion rate가 0%라고 가정을 한다.
+                        - e-mail을 거치는 path의 CVR이 40%
+                        - e-mail을 거치지 않는 path CVR이 10%
+                        - 전체 CVR은 50%
+                        - Removal effects for e-mail = 1 -(0.1/0.5) = 0.8
+                - Absorbing Markov Chain
+                    - 특정 State에서 Chain이 끝나는 Markov Chain
+                        - [example](https://brilliant.org/wiki/absorbing-markov-chains/)
+
     
 
 
