@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 21.12.22(수)
+- [분석 세팅 및 연습](https://github.com/tkasod2/TIL/blob/main/Basic%20code/시각화_및_pandas_default_정리.ipynb)
+
 ## 21.12.21(화)
 - [제로베이스 데이터분석 3주차 강의 정리 - 이어서]((https://github.com/tkasod2/TIL/blob/main/Theory/Data%20Analysis.md))
 - [데분 프로젝트3 정리 - Markov Chain, Channel 분석](https://github.com/tkasod2/TIL/blob/main/zerobase/study/실전_프로젝트_3_Statistical_Analysis를_활용한_마케팅_데이터_분석.ipynb)
