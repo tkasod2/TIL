@@ -186,6 +186,7 @@
                 - Absorbing Markov Chain
                     - 특정 State에서 Chain이 끝나는 Markov Chain
                         - [example](https://brilliant.org/wiki/absorbing-markov-chains/)
+                        
 
     
 
