@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 21.12.23(목)
+- 제로베이스 데이터분석 5주차 과제 시작
+
 ## 21.12.22(수)
 - [분석 세팅 및 연습](https://github.com/tkasod2/TIL/blob/main/Basic%20code/시각화_및_pandas_default_정리.ipynb)
 
