@@ -1,4 +1,8 @@
 # Today I Learned(TIL)
+## 21.12.24(금)
+- [제로베이스 데이터분석 4주차 강의 정리 - 이어서](https://github.com/tkasod2/TIL/blob/main/Theory/Data%20Analysis.md)
+- [데분 프로젝트3 정리 - Markov Chain을 활용한 removal effect](https://github.com/tkasod2/TIL/blob/main/zerobase/study/실전_프로젝트_3_Statistical_Analysis를_활용한_마케팅_데이터_분석.ipynb)
+
 ## 21.12.23(목)
 - 제로베이스 데이터분석 5주차 과제 시작
 
