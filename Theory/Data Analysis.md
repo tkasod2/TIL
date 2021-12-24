@@ -186,7 +186,10 @@
                 - Absorbing Markov Chain
                     - 특정 State에서 Chain이 끝나는 Markov Chain
                         - [example](https://brilliant.org/wiki/absorbing-markov-chains/)
-                        
+        - 채널 분석
+            - retargetting
+                - 구매를 망설이던 고객에게 다시 한 번 광고를 하는 방법
+            - 소재별로 캠페인 세트를 다르게 구성
 
     
 

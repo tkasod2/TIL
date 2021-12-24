@@ -2,6 +2,8 @@
 ## 21.12.24(금)
 - [제로베이스 데이터분석 4주차 강의 정리 - 이어서](https://github.com/tkasod2/TIL/blob/main/Theory/Data%20Analysis.md)
 - [데분 프로젝트3 정리 - Markov Chain을 활용한 removal effect](https://github.com/tkasod2/TIL/blob/main/zerobase/study/실전_프로젝트_3_Statistical_Analysis를_활용한_마케팅_데이터_분석.ipynb)
+- [데분 프로젝트4 정리 - Logistic Regression with tf.keras, conversion 예산 simulation](https://github.com/tkasod2/TIL/blob/main/zerobase/study/실전_프로젝트_4_머신러닝을_활용한_마케팅_예산_분배_최적화.ipynb)
+    - One-hot encoding 포인트 (손코딩, 1 column에 array형태로 밀어넣는 방식 활용)
 
 ## 21.12.23(목)
 - 제로베이스 데이터분석 5주차 과제 시작
