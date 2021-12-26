@@ -5,8 +5,8 @@
 
 ## 21.12.24(금)
 - [제로베이스 데이터분석 4주차 강의 정리 - 이어서](https://github.com/tkasod2/TIL/blob/main/Theory/Data%20Analysis.md)
-- [데분 프로젝트3 정리 - Markov Chain을 활용한 removal effect](https://github.com/tkasod2/TIL/blob/main/prj_analysis실전_프로젝트_3_Statistical_Analysis를_활용한_마케팅_데이터_분석.ipynb)
-- [데분 프로젝트4 정리 - Logistic Regression with tf.keras, conversion 예산 simulation](https://github.com/tkasod2/TIL/blob/main/prj_analysis실전_프로젝트_4_머신러닝을_활용한_마케팅_예산_분배_최적화.ipynb)
+- [데분 프로젝트3 정리 - Markov Chain을 활용한 removal effect](https://github.com/tkasod2/TIL/blob/main/prj_analysis/실전_프로젝트_3_Statistical_Analysis를_활용한_마케팅_데이터_분석.ipynb)
+- [데분 프로젝트4 정리 - Logistic Regression with tf.keras, conversion 예산 simulation](https://github.com/tkasod2/TIL/blob/main/prj_analysis/실전_프로젝트_4_머신러닝을_활용한_마케팅_예산_분배_최적화.ipynb)
     - One-hot encoding 포인트 (손코딩, 1 column에 array형태로 밀어넣는 방식 활용)
 - [분석 세팅 및 연습 - onehot encoding 손코딩 포함](https://github.com/tkasod2/TIL/blob/main/Basic%20code/시각화_및_pandas_default_정리.ipynb)
 
@@ -18,12 +18,12 @@
 
 ## 21.12.21(화)
 - [제로베이스 데이터분석 3주차 강의 정리 - 이어서]((https://github.com/tkasod2/TIL/blob/main/Theory/Data%20Analysis.md))
-- [데분 프로젝트3 정리 - Markov Chain, Channel 분석](https://github.com/tkasod2/TIL/blob/main/prj_analysis실전_프로젝트_3_Statistical_Analysis를_활용한_마케팅_데이터_분석.ipynb)
+- [데분 프로젝트3 정리 - Markov Chain, Channel 분석](https://github.com/tkasod2/TIL/blob/main/prj_analysis/실전_프로젝트_3_Statistical_Analysis를_활용한_마케팅_데이터_분석.ipynb)
 
 ## 21.12.20(월)
 - [제로베이스 데이터분석 3주차 강의 정리 - 이어서](https://github.com/tkasod2/TIL/blob/main/Theory/Data%20Analysis.md)
 - [제로베이스 데이터분석 4주차 과제 제출](https://github.com/tkasod2/TIL/blob/main/zerobase/homework/류범상__4주차_과제.ipynb)
-- [데분 프로젝트2 정리 - 유저 군집분석](https://github.com/tkasod2/TIL/blob/main/prj_analysis실전_프로젝트_2_유저_군집_분석하기.ipynb)
+- [데분 프로젝트2 정리 - 유저 군집분석](https://github.com/tkasod2/TIL/blob/main/prj_analysis/실전_프로젝트_2_유저_군집_분석하기.ipynb)
 
 ## 21.12.19(일)
 - 인천 송도 방문중 빙판길로 인한 학습부재
@@ -33,7 +33,7 @@
 
 ## 21.12.17(금)
 - 제로베이스 데이터분석 2주차, 3주차 강의 정리 - 이어서
-- [데분 프로젝트1 정리 - 서비스 건강성 분석](https://github.com/tkasod2/TIL/blob/main/prj_analysis실전_프로젝트_1_유저_행동_데이터로_서비스_건강성_분석하기.ipynb)
+- [데분 프로젝트1 정리 - 서비스 건강성 분석](https://github.com/tkasod2/TIL/blob/main/prj_analysis/실전_프로젝트_1_유저_행동_데이터로_서비스_건강성_분석하기.ipynb)
 - 블로그 자료 준비
 
 ## 21.12.16(목)
@@ -58,7 +58,7 @@
 - 제로베이스 데이터분석 3주차 과제
 
 ## 21.12.11(토)
-- [제로베이스 데이터분석 실전1](https://github.com/tkasod2/TIL/blob/main/prj_analysis%EC%8B%A4%EC%A0%84_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_1_%EC%9C%A0%EC%A0%80_%ED%96%89%EB%8F%99_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C_%EC%84%9C%EB%B9%84%EC%8A%A4_%EA%B1%B4%EA%B0%95%EC%84%B1_%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0.ipynb)
+- [제로베이스 데이터분석 실전1](https://github.com/tkasod2/TIL/blob/main/prj_analysis/%EC%8B%A4%EC%A0%84_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_1_%EC%9C%A0%EC%A0%80_%ED%96%89%EB%8F%99_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C_%EC%84%9C%EB%B9%84%EC%8A%A4_%EA%B1%B4%EA%B0%95%EC%84%B1_%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0.ipynb)
 - 당근마켓 서류작성
 
 ## 21.12.10(금)
