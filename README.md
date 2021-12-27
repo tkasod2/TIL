@@ -1,6 +1,10 @@
 # Today I Learned(TIL)
+## 21.12.27(월)
+- 포트폴리오 내용 수정 완료(디자인 추가 수정 필요, notion update 필요)
+- [제로베이스 데이터분석 5주차 과제 제출](https://github.com/tkasod2/TIL/blob/main/zerobase/homework/류범상__5주차_과제.ipynb)
+
 ## 21.12.26(일)
-- 포트폴리오 마무리
+- 포트폴리오 수정
 
 ## 21.12.25(토)
 - 이력서, 자소서, 포트폴리오 재정리
