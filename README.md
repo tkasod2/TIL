@@ -1,4 +1,8 @@
 # Today I Learned(TIL)
+## 21.12.28(화)
+- 취업전략특강
+- 데분 프로젝트5 시작
+
 ## 21.12.27(월)
 - 포트폴리오 내용 수정 완료(디자인 추가 수정 필요, notion update 필요)
 - [제로베이스 데이터분석 5주차 과제 제출](https://github.com/tkasod2/TIL/blob/main/zerobase/homework/류범상__5주차_과제.ipynb)
