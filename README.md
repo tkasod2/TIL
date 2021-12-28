@@ -1,6 +1,6 @@
 # Today I Learned(TIL)
 ## 21.12.28(화)
-- 취업전략특강
+- [취업전략특강](https://aeda.tistory.com/41)
 - 데분 프로젝트5 시작
 
 ## 21.12.27(월)
