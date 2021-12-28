@@ -1,7 +1,7 @@
 # Today I Learned(TIL)
 ## 21.12.28(화)
 - [취업전략특강](https://aeda.tistory.com/41)
-- 데분 프로젝트5 시작
+- Kaggle 데분 프로젝트 시작(olist, LAcity)
 
 ## 21.12.27(월)
 - 포트폴리오 내용 수정 완료(디자인 추가 수정 필요, notion update 필요)
