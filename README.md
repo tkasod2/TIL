@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 21.12.29(수)
+- [Kaggle 데분 프로젝트 시작](https://github.com/tkasod2/TIL/blob/main/prj_analysis/Retailrocket_recommender_system_datase.ipynb)
+
 ## 21.12.28(화)
 - [취업전략특강](https://aeda.tistory.com/41)
 - Kaggle 데분 프로젝트 시작(olist, LAcity)
