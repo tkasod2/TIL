@@ -1,7 +1,7 @@
 # Today I Learned(TIL)
 ## 21.12.30(목)
 - [Kaggle 데분 프로젝트 시작](https://github.com/tkasod2/TIL/blob/main/prj_analysis/Retailrocket_recommender_system_datase.ipynb)
-- 취업상담
+- 현직자 취업상담(직무 분석 및 포트폴리오 검토, 이력서 검토)
 
 ## 21.12.29(수)
 - [Kaggle 데분 프로젝트 시작](https://github.com/tkasod2/TIL/blob/main/prj_analysis/Retailrocket_recommender_system_datase.ipynb)
