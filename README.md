@@ -1,4 +1,9 @@
 # Today I Learned(TIL)
+## 21.12.31(금)
+- 빅데이터분석가 자격증 취득
+- [제로베이스 데이터분석 6주차 과제 제출]((https://github.com/tkasod2/TIL/blob/main/zerobase/homework/류범상__6주차_과제.ipynb))
+    - hyper params 처리는 추가로 해서 basic code에 올려놓을것
+
 ## 21.12.30(목)
 - [Kaggle 데분 프로젝트 시작](https://github.com/tkasod2/TIL/blob/main/prj_analysis/Retailrocket_recommender_system_datase.ipynb)
 - 현직자 취업상담(직무 분석 및 포트폴리오 검토, 이력서 검토)
