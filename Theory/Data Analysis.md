@@ -195,12 +195,48 @@
 ### 02-01 Product에 대한 반응 확인(review text analysis)    
 - User Voice
     - blog, SNS, community, play store, ...
-    - User Voice에 대한 관심이 커지고, AI 분석을 통한 토픽관리와 긍부정 분석이 중요함
+    - User Voice에 대한 관심이 커지고, 
+    - AI를 통해 토픽관리와 긍부정 분석하여 Review분석을 진행한다.
 
 - Natural Language Processing(자연어 처리)
-    - ex. 번역기, Copliot(github),...
-- 
+    > ex. 번역기, Copliot(github),...
 
+    1) Text Normalization; 텍스트 정규화
+        - 의미가 같은 텍스트를 동일한 형태로 바꿔주는 것
+        - 종류
+            - 오타 정규화
+            - 축약어 정규화
+                > don't -> do not
+            - 대/소문자 정규화 (보통은 lowercasing.)
+                - 생각보다 많은 영향을 미침
+            - URL,문장 부호 제거
+            - 불용어 제거 (Removing Stopwords)
+                - the, a, there, that
+                - 은, 는, 이, 가, ...
+            - Stemming (어간 추출)
+                - running, runs -> run
+            - lemmatization (표제어 추출)
+                - better, best -> good
+                - 사전을 통해서 Stemming 보다 정교한 정규화 방법
+    2) Token화
+        - Token : 컴퓨터가 텍스트를 처리하는 단위
+            - 주로 stem/lemma, subword 단위로 진행
+            - 종류
+                - 띄어쓰기 기반 토큰
+                - 형태소 기반 토큰
+                    - 형태소 단위로 분석
+                    - 사전 기반의 library가 존재
+                - subword 기반 토큰
+                    - **통계적으로 구하는 토큰 단위를 사용**
+                    - 데이터셋에 따라 영향을 받음
+    3) One-hot encoding
+        - 텍스트를 vector로 변형
+
+- 라이브러리 종류  
+    - NLTK(전통적 라이브러리)
+    - spaCy(영어, 유럽지역 언어에서 최고수준 성능)
+    - KoNLPy(한글)
+    - Huggingface Transformers (최신 기법들의 총망라. NLP에서 핫하게 쓰이는 중)
 
 
 
