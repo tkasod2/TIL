@@ -169,7 +169,7 @@
                     - 모든 채널의 기여도를 동일하게 본다.
                     - 하나의 캠페인에 여러번 impression 되었어도, drop_duplicates 처리한다.
             - 통계적 기법
-                - Markov chain
+                - **Markov chain**
                     - X1, X2, X3 .. 사건의 Sequence에서, 다른 state로 이동하는 확률은 과거 전부가 아니라 현재의 사건에서만 영향을 받음
                     - 이미 과거 관측값이 더 앞선 과거의 영향을 받았으니,
                     - 직전 관측값만 신경쓴다. (**memoryless**)
@@ -192,7 +192,14 @@
             - 캠페인 세트를 구성하는 방법을 강구
             - ML을 통한 Targetting
 
-    
+### 02-01 Product에 대한 반응 확인(review text analysis)    
+- User Voice
+    - blog, SNS, community, play store, ...
+    - User Voice에 대한 관심이 커지고, AI 분석을 통한 토픽관리와 긍부정 분석이 중요함
+
+- Natural Language Processing(자연어 처리)
+    - ex. 번역기, Copliot(github),...
+- 
 
 
 
