@@ -237,6 +237,49 @@
     - spaCy(영어, 유럽지역 언어에서 최고수준 성능)
     - KoNLPy(한글)
     - Huggingface Transformers (최신 기법들의 총망라. NLP에서 핫하게 쓰이는 중)
+    - gensim (topic 모델링 용, 자주 나오는 단어들끼리 묶어주는 lib)
+        - bigram 연속되는 두 단어 쌍
+        - trigram 3 단어
+        - n-gram n개 이상 단어 쌍
+        - 자주 등장하는 n-gram을 자동 식별하는것을 *phrase modeling* 이라고함
+
+- Word cloud
+    ![image](https://i.stack.imgur.com/8UqhO.png)
+    - 직관성, 심미성, 편리성이 있으나, 정확도가 떨어짐
+
+- TF-IDF
+    
+    - 정보 검색 분야에서 개발됨(portal site)
+    - 문서 내 단어 중요도를 측정하는 방법
+        1) 자주 등장할수록 중요
+            - 하지만, a/that/the 등이 자주 등장하게됨
+        2) 단어가 다른 문서에도 자주 나온다면 중요하지 않다. <-- TF-IDF의 핵심
+    - TF (Term Frequency) : 특정 단어가 한 문서내에서 얼마나 자주 등장하는가
+    - IDF (Inverse Document Frequeny) : 전체 문서집합에서(corpus) 얼마나 자주 등장하는가의 역수
+    - TF * IDF
+    - Heuristic이기 때문에 입맛에 맞게 바꿔서 활용 가능함.
+
+- Topic Modeling
+    - 문서를 주제에 따라 묶는 기법으로, 일종의 클러스터링이라고 볼 수 있음
+    - 요약이 가능
+    - 전통적 NLP식 표현
+        - Bag of Words
+        - Count Vectorization
+        - 문서 레이어와 단어의 레이어가 있고, 각 문서들은 단어 레이어로 가는 매핑
+            - ex. 1~1000번의 문서가 있다고 가정하면,
+            - 각 문서별로 돌아가면서 단어 레이어로 가기 위해서 화살표를 그리는 과정
+        - 따라서, 문서 벡터가 너무 크다는 단점과
+        - 단어 사이에서 연관관계를 도출할 수 없다.
+            - ex) '개' 와 '강아지'는 독립적인 단어일 뿐
+    - LDA (Latent Dirichlet Allocation)
+        > 숨겨져있는/ 디리클레 분포(확률 분포; n진 분류) / 할당  
+        - 문서레이어, 단어레이어 사이에 주제 레이어를 추가함
+        - 문서는 topic의 mixture
+        - topic은 단어의 mixture
+        - Document가 어떤 word를 할당할 때, Maximum likelihood를 만들어 줄 수 있는 Topic을 설정해줌.
+            - 즉, Topic을 확정적으로 정해준다기보다 argmax함수처럼 최적화 Topic을 도출해주는 역할
+
+
 
 
 
