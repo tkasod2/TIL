@@ -1,4 +1,8 @@
 # Today I Learned(TIL)
+## 22.01.02(일)
+- [sqlite3 연습용 db 생성](https://github.com/tkasod2/TIL/blob/main/sqlite/sqlite3연습.ipynb)
+    - pymysql host 확인중...
+
 ## 22.01.01(토)
 - [데이터분석 이론 추가](https://github.com/tkasod2/TIL/blob/main/Theory/Data%20Analysis.md)
 - [데분 프로젝트5 정리 - 토픽모델링 with spaCy, gensim](https://github.com/tkasod2/TIL/blob/main/prj_analysis/실전_프로젝트_5_토픽_모델링으로_리뷰_한눈에_보기.ipynb)
