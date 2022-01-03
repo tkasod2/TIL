@@ -1,6 +1,7 @@
 # Today I Learned(TIL)
 ## 22.01.03(월)
 - [제로베이스 데이터분석 최종과제 제출](https://github.com/tkasod2/TIL/blob/main/zerobase/homework/최종평가_과제_ipynb의_사본.ipynb)
+- pymysql python 올리는 방법 체크중...
 
 ## 22.01.02(일)
 - [sqlite3 연습용 db 생성](https://github.com/tkasod2/TIL/blob/main/sqlite/sqlite3연습.ipynb)
