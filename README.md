@@ -1,4 +1,8 @@
 # Today I Learned(TIL)
+## 22.01.04(화)
+- [Kaggle 데분 프로젝트](https://github.com/tkasod2/TIL/blob/main/prj_analysis/Retailrocket_recommender_system_datase.ipynb)
+- [데분 프로젝트6 정리 - 감성분석(사전,토픽,통계,DL 방법론 활용),#BERT](https://github.com/tkasod2/TIL/blob/main/prj_analysis/실전_프로젝트_6_감성_분석으로_리뷰_반응_살피기.ipynb)
+
 ## 22.01.03(월)
 - [제로베이스 데이터분석 최종과제 제출](https://github.com/tkasod2/TIL/blob/main/zerobase/homework/최종평가_과제_ipynb의_사본.ipynb)
 
