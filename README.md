@@ -1,5 +1,6 @@
 # Today I Learned(TIL)
 ## 22.01.05(수)
+- [파이썬 스톱워치 실행파일 만들기 블로깅](https://aeda.tistory.com/42)
 - [데분 프로젝트10정리 - 이탈 예측 성능 개선, Boosting](https://github.com/tkasod2/TIL/blob/main/prj_analysis/실전_프로젝트_10_이탈_예측_성능_끌어올리기.ipynb)
 
 ## 22.01.04(화)
