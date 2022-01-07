@@ -1,0 +1,53 @@
+-- Weather Observation Station 13
+SELECT ROUND(SUM(LAT_N),4) FROM STATION
+WHERE LAT_N BETWEEN 38.7880 AND 137.2345;
+
+-- Weather Observation Station 14
+SELECT TRUNCATE(MAX(LAT_N),4) FROM STATION
+WHERE LAT_N < 137.2345;
+
+-- Weather Observation Station 15
+-- 방법1
+SELECT ROUND(LONG_W,4) FROM STATION
+WHERE LAT_N = (SELECT MAX(LAT_N) FROM STATION WHERE LAT_N < 137.2345);
+-- 방법2
+SELECT ROUND(LONG_W,4) FROM STATION
+WHERE LAT_N < 137.2345
+ORDER BY LAT_N DESC
+LIMIT 1;
+
+-- Weather Observation Station 16
+SELECT ROUND(LAT_N,4) FROM STATION
+WHERE LAT_N > 38.7780
+ORDER BY LAT_N ASC
+LIMIT 1;
+
+-- Weather Observation Station 17
+SELECT ROUND(LONG_W,4) FROM STATION
+WHERE LAT_N > 38.7780
+ORDER BY LAT_N ASC
+LIMIT 1;
+
+-- Weather Observation Station 18
+-- Manhattan Distance on a 2D plane
+SELECT ROUND(ABS(MIN(LAT_N)-MAX(LAT_N))+ABS(MIN(LONG_W)-MAX(LONG_W)),4) FROM STATION;
+
+-- Weather Observation Station 19
+-- Euclidean Distance 
+SELECT ROUND(
+    SQRT(POWER((MIN(LAT_N)-MAX(LAT_N)),2) + POWER(MIN(LONG_W)-MAX(LONG_W),2))
+    ,4) 
+    FROM STATION;
+
+-- Weather Observation Station 20 ----★
+SET @N := 0; -- N 변수 설정
+SELECT COUNT(*) FROM STATION INTO @TOTAL; -- STATION Table의 count를 TOTAL 변수에 넣는다.
+SELECT ROUND(AVG(A.LAT_N), 4)
+FROM (SELECT @N := @N +1 AS ROW_ID, LAT_N FROM STATION ORDER BY LAT_N) A
+WHERE
+    CASE WHEN MOD(@TOTAL, 2) = 0 
+            THEN A.ROW_ID IN (@TOTAL/2, (@TOTAL/2+1))
+            ELSE A.ROW_ID = (@TOTAL+1)/2
+    END
+;
+
