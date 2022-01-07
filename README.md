@@ -1,4 +1,9 @@
 # Today I Learned(TIL)
+## 22.01.07(금)
+- [Kaggle 데분 프로젝트](https://github.com/tkasod2/TIL/blob/main/prj_analysis/Retailrocket_recommender_system_datase.ipynb)
+    - clustering GPU/RAM 문제 해결중
+- [해커랭크 SQL mysql 문제 풀이 정리 中](https://github.com/tkasod2/TIL/tree/main/mysql/hakerrank)
+
 ## 22.01.06(목)
 - [Kaggle 데분 프로젝트](https://github.com/tkasod2/TIL/blob/main/prj_analysis/Retailrocket_recommender_system_datase.ipynb)
     - clustering GPU/RAM 문제 체크 필요
