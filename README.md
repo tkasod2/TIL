@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 22.01.09(일)
+- postgresql 과제 수행
+
 ## 22.01.08(토)
 - postgresql 과제 수행
 
