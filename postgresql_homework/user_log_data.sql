@@ -5,6 +5,25 @@ and created_at < 'September, 01, 2018'
 group by created_at,unit_id
 order by created_at;
 
+-- DAU with sex
+with tb as (
+select a.*, b.sex from bz_dau a
+left join (select id,sex from bz_device) b on a.device_id = b.id
+where b.sex is not null
+)
+select sex, unit_id,avg(dau) from (
+select sex, unit_id,created_at,count(device_id) as dau from (select distinct device_id, unit_id,created_at, sex from tb)
+where created_at >= 'August 01, 2018'
+and created_at < 'September, 01, 2018'
+-- and unit_id is not null
+-- and unit_id = 'B'
+group by created_at, sex, unit_id
+order by created_at, sex, unit_id
+)
+group by sex, unit_id
+order by unit_id, sex;
+
+
 -- NRU
 select unit_id,date_joined, count(id) NRU from bz_device
 where date_joined >= 'August 01, 2018'
