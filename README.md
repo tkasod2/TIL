@@ -1,13 +1,13 @@
 # Today I Learned(TIL)
 ## 22.01.10(월)
-- postgresql 과제 마무리(with. metabase)
+- [postgresql 과제 마무리(with. metabase)](https://github.com/tkasod2/TIL/tree/main/postgresql_homework)
 - 면접 준비
 
 ## 22.01.09(일)
-- postgresql 과제 수행(with. metabase)
+- [postgresql 과제 수행(with. metabase)](https://github.com/tkasod2/TIL/tree/main/postgresql_homework)
 
 ## 22.01.08(토)
-- postgresql 과제 수행(with. metabase)
+- [postgresql 과제 수행(with. metabase)](https://github.com/tkasod2/TIL/tree/main/postgresql_homework)
 
 ## 22.01.07(금)
 - [Kaggle 데분 프로젝트](https://github.com/tkasod2/TIL/blob/main/prj_analysis/Retailrocket_recommender_system_datase.ipynb)
