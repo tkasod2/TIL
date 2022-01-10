@@ -1,4 +1,8 @@
 # Today I Learned(TIL)
+## 22.01.11(화)
+- 면접 진행
+- sql 관련 포스팅 준비
+
 ## 22.01.10(월)
 - [postgresql 과제 마무리(with. metabase)](https://github.com/tkasod2/TIL/tree/main/postgresql_homework)
 - 면접 준비
