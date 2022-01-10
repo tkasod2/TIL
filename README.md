@@ -1,4 +1,8 @@
 # Today I Learned(TIL)
+## 22.01.10(월)
+- postgresql 과제 마무리(with. metabase)
+- 면접 준비
+
 ## 22.01.09(일)
 - postgresql 과제 수행(with. metabase)
 
