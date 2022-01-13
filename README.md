@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 22.01.13(목)
+- [통계 기초](https://github.com/tkasod2/TIL/blob/main/statistics/statistic_remind.ipynb)
+
 ## 22.01.12(수)
 - 데이터 분석 이론 및 문답 준비
 - sql 포스팅 준비
