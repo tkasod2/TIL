@@ -1,4 +1,8 @@
 # Today I Learned(TIL)
+## 22.01.14(금)
+- Hacker rank sql 문제풀이
+- 면접 준비
+
 ## 22.01.13(목)
 - [통계 기초](https://github.com/tkasod2/TIL/blob/main/statistics/statistic_remind.ipynb)
 
