@@ -1,4 +1,8 @@
 # Today I Learned(TIL)
+## 22.01.15(토)
+- KPI, 기초이론 공부
+- 면접 준비
+
 ## 22.01.14(금)
 - Hacker rank sql 문제풀이
 - 면접 준비
