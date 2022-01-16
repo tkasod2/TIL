@@ -5,6 +5,17 @@ and created_at < 'September, 01, 2018'
 group by created_at,unit_id
 order by created_at;
 
+-- DAU rate with sex
+-- over(partition by COL)
+with t as (
+select unit_id||'_'||case sex when 'M' then 'Male' else 'Female' end as u_s,created_at, count(device_id) as dau 
+from (select distinct device_id, bz_dau.unit_id,created_at, b.sex from bz_dau left join bz_device b on bz_dau.device_id = b.id where b.sex is not null)
+where created_at >= 'August 01, 2018'
+and created_at < 'September, 01, 2018'
+group by created_at,u_s)
+
+select created_at, u_s, dau*1.0/(avg(dau) over(partition by u_s) )as dau_rate_over_avg from t
+
 -- DAU with sex
 with tb as (
 select a.*, b.sex from bz_dau a
