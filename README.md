@@ -1,8 +1,15 @@
 # Today I Learned(TIL)
+## 22.01.16(일)
+- [Kaggle 데분 프로젝트](https://github.com/tkasod2/TIL/blob/main/prj_analysis/Retailrocket_recommender_system_datase.ipynb)
+    - Sampling으로 군집 분석(6개), Silhoutte coefficient가 너무 안나옴
+- Key Metric, 기초이론 공부
+- 면접 준비
+
+
 ## 22.01.15(토)
 - [Kaggle 데분 프로젝트](https://github.com/tkasod2/TIL/blob/main/prj_analysis/Retailrocket_recommender_system_datase.ipynb)
     - stickiness추가, GPU 문제해결방법 searching
-- KPI, 기초이론 공부
+- Key Metric, 기초이론 공부
 - 면접 준비
 
 ## 22.01.14(금)
