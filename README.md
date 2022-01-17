@@ -1,10 +1,13 @@
 # Today I Learned(TIL)
+## 22.01.17(월)
+- [postgresql 과제 adding(with. metabase)](https://github.com/tkasod2/TIL/tree/main/postgresql_homework)
+- 면접 준비
+
 ## 22.01.16(일)
 - [Kaggle 데분 프로젝트](https://github.com/tkasod2/TIL/blob/main/prj_analysis/Retailrocket_recommender_system_datase.ipynb)
     - Sampling으로 군집 분석(6개), Silhoutte coefficient가 너무 안나옴
 - Key Metric, 기초이론 공부
 - 면접 준비
-
 
 ## 22.01.15(토)
 - [Kaggle 데분 프로젝트](https://github.com/tkasod2/TIL/blob/main/prj_analysis/Retailrocket_recommender_system_datase.ipynb)
