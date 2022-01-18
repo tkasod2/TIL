@@ -1,4 +1,10 @@
 # Today I Learned(TIL)
+## 22.01.18(화)
+- 면접 준비
+    - AB test Reference 재정리
+    - AWS 서버 개념 확인
+    - 기업 분석
+
 ## 22.01.17(월)
 - [postgresql 과제 adding(with. metabase)](https://github.com/tkasod2/TIL/tree/main/postgresql_homework)
 - 면접 준비
