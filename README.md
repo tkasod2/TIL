@@ -1,7 +1,7 @@
 # Today I Learned(TIL)
 ## 22.01.18(화)
 - 면접 준비
-    - AB test Reference 재정리
+    - [AB test 관련 추가 정리](https://github.com/tkasod2/TIL/blob/main/Theory/Data%20Analysis.md)
     - AWS 서버 개념 확인
     - 기업 분석
 

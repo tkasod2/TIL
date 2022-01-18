@@ -397,8 +397,41 @@
                 - 등등. **"이탈률 계산의 산업 표준 정의가 없다!"**
 
 
-
-
+#### 05. appendix
+- AB Test
+    - 해당 실험에서 과연 **어떤 결과를** 얻을 것이고, 그에대한 이유가 설명이 가능해야함
+    - 가설;hypothesis
+        - if__가정___, then___결과___, because ___이유___
+        - Variable
+            - 독립변인은 보통, ab test의 경우에는 보통 단일변수, 혹은 소수의 변수를 기반으로 변경점을 선정
+            - 가정에는 다음과 같은 것들이 들어갈 수 있음
+                - 여러 campaign이 집행된 경우 => 각 campaign 간의 상관관계는 전혀 없다라고 가정한다.
+                - A에도 나타나고 B에도 나타나는 독립변수가 있는 경우 => 결과 해석에서 제외한다.
+                - 효과는 오로지 해당 독립변인에 의해서 발생한다. 
+                - ...
+        - 결과
+            - ROI, CTR, Conversion rate 등의 KPI의 변화가 없다 혹은 있다(h0 or h1)
+        - 결과 해석
+            - 수치적인 증명
+            - 직관적인 증명(다만, 이런 경우에는 나름의 논리를 만들 필요가 있겠다.)
+            - if__가정___, then___결과___, because ___이유___
+                - 메인 페이지에서 회사명을 빼는것이 더 좋다. 
+                - 위 AB test결과에서 확인할 수 있듯이 Conversion Rate가 높았다.
+                - 왜냐하면, 회사에 대한 안좋은 이미지가 있었기 때문이다. - 근거는, 설문조사 같은 근거를 가져와도 될듯
+                - 따라서, 회사명을 빼자
+            - 하지만,
+                - 항상 그 결과에 따라가야 하는 근거가 되는것은 아님
+                - 결과 분석을 보다 세밀하게 해야할 필요가 있음
+                - 가설 공유를 통해 유관 부서나, 동료들에게 허점을 확인해야함
+    - 실험 절차 ; Kyle Rush, Head of Optimization at Optimizely
+        1) **Identify goals and key metrics**
+        2) Create hypothesis
+        3) Estimate test duration with a sample size
+        4) **Prioritize experiments with projected ROI**
+        5) QA the experiment
+        6) Set test live
+        7) Record and share results
+        8) Consider a retest
 
 
 
