@@ -398,7 +398,7 @@
 
 
 #### 05. appendix
-- AB Test
+- AB Test (https://www.optimizely.com/insights/blog/why-an-experiment-without-a-hypothesis-is-dead-on-arrival/)
     - 해당 실험에서 과연 **어떤 결과를** 얻을 것이고, 그에대한 이유가 설명이 가능해야함
     - 가설;hypothesis
         - if__가정___, then___결과___, because ___이유___
