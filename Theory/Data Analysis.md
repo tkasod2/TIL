@@ -433,6 +433,17 @@
         7) Record and share results
         8) Consider a retest
 
-
-
-
+- Key Metrics
+    - DAU
+    - MAU
+    - Stickiness = 얼마나 많은 월간 사용자가 일일 사용자인가
+    ㄴ 3일간 77%, 한달뒤 10%의 고객이 나가고, 3달 후에도 플레이하는 사람은 5%남짓
+    - RR
+    - Churn Rate
+    - ARPU
+    - LTV = ARPDAU * AVG user lifetime(Days)
+    - ATV(Average Transaction Value) = revenue / #of orders
+    - TTP(Time to purchase) = 첫 구매 시점
+    - CPI(Cost Per Install) = 광고 캠페인 비용
+    - Session Length : 카지노게임이 35분가량으로 가장 높은 Session length
+    - Session Count : 하루 평균 몇번을 껐다 켰다 하는가
