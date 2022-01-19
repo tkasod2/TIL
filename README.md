@@ -1,4 +1,8 @@
 # Today I Learned(TIL)
+## 22.01.19(수)
+- [Key Metrics 확인]((https://github.com/tkasod2/TIL/blob/main/Theory/Data%20Analysis.md))
+- 실전 플젝 <-> 이론 연계 블로깅 준비
+
 ## 22.01.18(화)
 - 면접 준비
     - [AB test 관련 추가 정리](https://github.com/tkasod2/TIL/blob/main/Theory/Data%20Analysis.md)

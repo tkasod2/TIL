@@ -397,7 +397,7 @@
                 - 등등. **"이탈률 계산의 산업 표준 정의가 없다!"**
 
 
-#### 05. appendix
+## 05. appendix
 - AB Test (https://www.optimizely.com/insights/blog/why-an-experiment-without-a-hypothesis-is-dead-on-arrival/)
     - 해당 실험에서 과연 **어떤 결과를** 얻을 것이고, 그에대한 이유가 설명이 가능해야함
     - 가설;hypothesis
