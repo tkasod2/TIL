@@ -91,6 +91,30 @@ and a.created_at <'September 1, 2018'
 group by a.created_at
 order by a.created_at;
 
+-- Cohort
+with tb as (
+select t1.unit_id, t1.device_id, ((2018-t2.year_of_birth)/5)*5 as age5, case t2.sex when 'F' then 'Female' when 'M' then 'Male' else t2.sex end as sex, t1.created_at, t2.date_joined from bz_dau t1
+left join bz_device t2
+on t1.device_id = t2.id
+where date_joined >= '20180801'
+and age5 > 15
+and age5 <= 80
+and sex is not null
+order by unit_id, device_id),
+
+
+rr as (
+select unit_id, to_char(date_joined, 'YYYY-MM-DD') as reg_day, (created_at-date_joined) as days, count(distinct device_id) as dau from tb
+where 1=1
+group by unit_id, reg_day, days
+order by unit_id, reg_day, days)
+
+select reg_day, days, dau*100.0/(max(dau) over(partition by reg_day)) as rr_days from rr
+where unit_id = 'A'
+order by reg_day, days
+
+
+
 -- ROAS
 select unit_id,ad_type,sum(impression_count) as imp_cnt, sum(click_count) as clk_cnt, round(sum(click_count)*100.00/(sum(impression_count)+sum(click_count)),2) as ctr_percent,
 sum(spent_budget) as budget, sum(revenue) as rev, rev*1.0/budget as roas
