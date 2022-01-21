@@ -1,4 +1,8 @@
 # Today I Learned(TIL)
+## 22.01.21(금)
+- [postgresql 과제 adding(with. metabase)](https://github.com/tkasod2/TIL/tree/main/postgresql_homework)
+- Retail rocket e-commerce 데이터 분석 블로깅준비
+
 ## 22.01.20(목)
 - Retail rocket e-commerce 데이터 분석 블로깅준비
 
