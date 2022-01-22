@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 22.01.22(토)
+- [Retail rocket e-commerce 데이터 분석 블로깅 초안](https://aeda.tistory.com/43)
+
 ## 22.01.21(금)
 - [postgresql 과제 adding(with. metabase)](https://github.com/tkasod2/TIL/tree/main/postgresql_homework)
 - Retail rocket e-commerce 데이터 분석 블로깅준비
