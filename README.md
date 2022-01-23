@@ -1,4 +1,8 @@
 # Today I Learned(TIL)
+## 22.01.23(일)
+- [Data Handling 블로깅](https://aeda.tistory.com/44)
+- [Ecommerce_pandas_with_sqlite_exercise](https://github.com/tkasod2/TIL/blob/main/sqlite/Ecommerce_pandas_with_sqlite_exercise.ipynb)
+
 ## 22.01.22(토)
 - [Retail rocket e-commerce 데이터 분석 블로깅 초안](https://aeda.tistory.com/43)
 
