@@ -1,4 +1,8 @@
 # Today I Learned(TIL)
+## 22.01.24(월)
+- [Data Handling 블로깅_수정](https://aeda.tistory.com/44)
+    - distinct와 window 함수 혼재 불가(group by 필수사용!!)
+
 ## 22.01.23(일)
 - [Data Handling 블로깅](https://aeda.tistory.com/44)
 - [Ecommerce_pandas_with_sqlite_exercise](https://github.com/tkasod2/TIL/blob/main/sqlite/Ecommerce_pandas_with_sqlite_exercise.ipynb)
