@@ -1,4 +1,11 @@
 # Today I Learned(TIL)
+## 22.01.26(수)
+- AARRR 재학습
+- KPI 리스트 정리
+
+## 22.01.25(화)
+- 면접 및 면접 복기
+
 ## 22.01.24(월)
 - [Data Handling 블로깅_수정](https://aeda.tistory.com/44)
     - distinct와 window 함수 혼재 불가(group by 필수사용!!)
