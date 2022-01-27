@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 22.01.27(목)
+- 미팅 준비(notion)
+
 ## 22.01.26(수)
 - AARRR 재학습
 - KPI 리스트 정리
