@@ -1,6 +1,10 @@
 # Today I Learned(TIL)
-## 22.01.29~30(토,일)
-- 휴식
+## 22.02.01(화)
+- [Retail rocket e-commerce 데이터 분석](https://github.com/tkasod2/TIL/blob/main/prj_analysis/Retailrocket_recommender_system_datase.ipynb)
+    - predict transaction
+
+## 22.01.29~31(토,일,월)
+- 휴식(설연휴)
 
 ## 22.01.28(금)
 - 현업 인터뷰 조언 내용 정리 및 spec 정리
