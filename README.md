@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 22.02.03(목)~ now
+- Wellxecon 업무 (private 처리)
+
 ## 22.02.01(화)
 - [Retail rocket e-commerce 데이터 분석](https://github.com/tkasod2/TIL/blob/main/prj_analysis/Retailrocket_recommender_system_datase.ipynb)
     - predict transaction
