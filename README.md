@@ -1,4 +1,7 @@
 # Today I Learned(TIL)
+## 22.02.21(월)
+- [Data Handling 블로깅]
+
 ## 22.02.03(목)~ now
 - Wellxecon 업무 (private 처리)
 
